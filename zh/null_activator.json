@@ -1,0 +1,4 @@
+{
+  "Only supported for games that can use mods directly from the staging folder": "仅支持可以直接从临时文件夹使用模组的游戏",
+  "This deployment method does nothing during deployment (although extensions may still ": "此部署方法在部署时不做任何操作（但扩展仍可能"
+}

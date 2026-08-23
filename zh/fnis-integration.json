@@ -1,0 +1,13 @@
+{
+  "Any time you deploy, Vortex will check if any mod containing animations ": "每次部署时，Vortex 都会检查是否有包含动画的模组",
+  "FNIS not installed": "未安装 FNIS",
+  "FNIS outdated": "FNIS 过期",
+  "md5": "md5",
+  "No": "否",
+  "Run FNIS on Deployment Event (if necessary)": "在部署事件上运行 FNIS（如有必要）",
+  "Running FNIS automatically": "自动运行 FNIS",
+  "Updating animations (FNIS)": "更新动画（FNIS）",
+  "Yes": "是",
+  "You have configured Vortex to run FNIS automatically but it's not installed for this game. ": "你已设置 Vortex 自动运行 FNIS，但此游戏尚未安装 FNIS。",
+  "You have configured Vortex to run FNIS automatically but the installed version of FNIS is ": "你已设置 Vortex 自动运行 FNIS，但已安装的 FNIS 版本"
+}

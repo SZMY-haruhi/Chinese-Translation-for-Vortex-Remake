@@ -1,0 +1,13 @@
+{
+  "Beta": "测试版",
+  "Check now": "现在检查",
+  "No automatic updates": "不自动更新",
+  "Stable": "稳定版",
+  "Update": "更新",
+  "Update Channel": "更新频道",
+  "Very old versions of Vortex will be locked out of network features eventually ": "过旧的 Vortex 版本最终将无法使用网络功能",
+  "Vortex is running in development mode. Updates will be checked and downloaded but can't be installed.": "Vortex 正在以开发模式运行。更新将被检查并下载，但无法安装。",
+  "Vortex is running in preview mode and using the hidden 'next' update channel.": "Vortex 正在预览模式下运行，并使用隐藏的“下一个”更新通道。",
+  "Vortex was installed through a third-party service which will take care of updating it.": "Vortex 是通过第三方服务安装的，第三方服务将负责更新它。",
+  "You can choose to either receive automatic updates only after they went through some ": "你可以选择只在更新经过一定"
+}

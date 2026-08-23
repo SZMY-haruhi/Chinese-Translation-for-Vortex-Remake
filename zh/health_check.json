@@ -1,0 +1,136 @@
+{
+  "actions": {
+    "install_all": "一键安装全部（{{count}}）"
+  },
+  "detail": {
+    "feedback_modal": {
+      "buttons": {
+        "cancel": "跳过",
+        "confirm": "发送反馈"
+      },
+      "description": "告诉我们哪里不对，帮助我们改进这条提示。",
+      "options": {
+        "explanation_was_unclear": "说明不清楚",
+        "incorrect_requirement": "依赖不正确",
+        "other": "其他",
+        "requirement_already_installed": "依赖已经安装"
+      },
+      "title": "感谢你的反馈"
+    },
+    "item": {
+      "after_installing": "安装完成后请点击“确认安装”。我们无法自动检测站外模组安装。",
+      "author_note": "作者说明：{{note}}",
+      "confirm_install": "确认安装",
+      "current_version": "当前版本",
+      "different_version_required": "需要安装不同版本",
+      "downloading": "正在下载...",
+      "enable_required": "启用所需版本",
+      "enable_this_version": "启用此版本",
+      "external_hosted_note": "此模组托管在 Nexus Mods 之外。安装前请先查看说明。",
+      "install_one_click": "一键安装",
+      "install_required": "需要安装",
+      "install_uninstalled": "安装（已下载）",
+      "install_via_mod_page": "通过模组页面安装",
+      "installing": "正在安装...",
+      "may_require_file": "可能还需要安装以下额外模组文件才能正常工作：",
+      "missing_for": "<modLink>{{modName}}</modLink> 缺少所需模组",
+      "missing_for_plural": "<modLink>{{modName}}</modLink> 缺少所需模组",
+      "mod_page_source_note": "此依赖来自模组页面而非文件级依赖系统，因此不一定适用于你的具体配置。<modLink>打开模组页面查看详情</modLink>。",
+      "open_external_mod_page": "打开站外模组页面",
+      "pick_one": "请选择其中一个",
+      "required_version": "所需版本：",
+      "title": "{{modName}} 可能缺少所需模组",
+      "view_in_mods": "在模组中查看"
+    },
+    "subtitle": {
+      "error": "这些问题会阻止游戏运行，请在游玩前修复。",
+      "suggestion": "可能改进当前配置的建议。",
+      "warning": "可能导致部分配置无法工作的问题。"
+    },
+    "title": {
+      "error": "错误",
+      "suggestion": "建议",
+      "warning": "警告"
+    },
+    "was_this_helpful": {
+      "error": "这条错误有帮助吗？",
+      "suggestion": "这条建议有帮助吗？",
+      "warning": "这条警告有帮助吗？"
+    }
+  },
+  "divider": {
+    "and": "并且",
+    "or": "或者"
+  },
+  "listing": {
+    "external_mod_install": "站外模组安装",
+    "install_one_click": "一键安装（{{count}}）",
+    "install_uninstalled": "安装（已下载）",
+    "item": {
+      "description": "缺失模组：{{dependencyModName}}",
+      "missing_for": "{{modName}} 缺少所需模组",
+      "missing_for_plural": "{{modName}} 缺少所需模组",
+      "more_count": "+{{ count }} 项",
+      "or_join": "或",
+      "title": "{{modName}} 可能还需要额外模组文件"
+    },
+    "last_updated": "最后更新： {{time}}",
+    "no_results_active": {
+      "message": "可以开始游戏",
+      "title": "健康检查通过"
+    },
+    "no_results_hidden": {
+      "title": "没有已隐藏项"
+    },
+    "pick_mod_install": "选择要安装的模组",
+    "premium_banner": {
+      "description": "一键下载依赖，无需打开网页或等待。<premiumLink>升级 Premium</premiumLink>"
+    },
+    "subtitle": "检查当前配置是否存在问题，并了解如何修复。",
+    "title": "健康检查"
+  },
+  "premium": {
+    "modal": {
+      "benefits": {
+        "ad_free": "终身无广告，即使之后取消订阅",
+        "collections": "一键安装整合包",
+        "downloads": "应用内一键下载与模组更新",
+        "speed": "不限速下载"
+      },
+      "benefits_title": "开通 Premium 后可获得：",
+      "buttons": {
+        "primary": "解锁一键安装",
+        "secondary": {
+          "all": "返回并打开模组页面",
+          "single": "前往模组页面（免费）"
+        }
+      },
+      "description": {
+        "all": "应用内一键安装是 Premium 功能。\n\n免费用户需通过网站模组页面下载，广告用于维持平台运转。",
+        "single": "应用内一键安装是 Premium 功能。\n\n免费用户需通过网站模组页面下载，广告用于维持平台运转。"
+      },
+      "title": {
+        "all": "跳过网站，立即安装全部依赖。",
+        "single": "跳过网站，立即安装。"
+      }
+    }
+  },
+  "settings": {
+    "description": "检测模组列表中的问题并给出修复建议。更多检查即将推出。",
+    "file_requirements": "缺失文件依赖警告",
+    "mod_requirements": "缺失模组依赖建议",
+    "title": "健康检查（测试版）"
+  },
+  "shared": {
+    "correct_version_uninstalled": "需要安装这个已下载的模组文件才能正常工作：",
+    "correct_version_uninstalled_plural": "需要安装 {{ count }} 个已下载的模组文件才能正常工作：",
+    "requires_files": "还需要安装 {{ count }} 个额外模组文件才能正常工作：",
+    "requires_files_plural": "还需要安装 {{ count }} 个额外模组文件才能正常工作：",
+    "requires_pick": "还需要选择 {{ count }} 个额外模组文件才能正常工作：",
+    "requires_pick_plural": "还需要选择 {{ count }} 个额外模组文件才能正常工作：",
+    "wrong_version_enabled": "需要启用此已安装模组文件的不同版本才能正常工作：",
+    "wrong_version_enabled_plural": "需要启用另外 {{ count }} 个已安装模组文件的不同版本才能正常工作：",
+    "wrong_version_installed": "需要为此现有模组文件安装不同版本才能正常工作：",
+    "wrong_version_installed_plural": "需要为 {{ count }} 个现有模组文件安装不同版本才能正常工作："
+  }
+}

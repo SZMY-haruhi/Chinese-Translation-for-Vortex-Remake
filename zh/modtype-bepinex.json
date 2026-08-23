@@ -1,0 +1,7 @@
+{
+  "BepInEx lives here: ": "BepInEx 位于这里：",
+  "Special thanks to {{author}} for developing this tool, and all its contributors: {{nl}}\"{{contributors}}\"": "特别感谢 {{author}} 开发此工具，以及所有贡献者：{{nl}}“{{contributors}}”",
+  "Support for this game is made possible using the Bepis Injector Extensible tool (BepInEx)": "通过使用 Bepis Injector Extensible 工具（BepInEx）使得对这款游戏的支持成为可能",
+  "The \"{{game}}\" game extension requires a widely used 3rd party assembly ": "“{{game}}”游戏扩展需要一个常用的第三方程序集",
+  "The {{game}} game extension requires a widely used 3rd party assembly ": "{{game}} 游戏扩展需要一个常用的第三方程序集"
+}

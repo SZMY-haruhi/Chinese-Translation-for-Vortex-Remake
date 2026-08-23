@@ -1,0 +1,8 @@
+{
+  "an unknown game": "一个未知的游戏",
+  "Incompatible Archives": "不兼容的压缩文件",
+  "Is loaded by {{plugin}}, but is intended for use in {{games}}.": "由 {{plugin}} 加载，但旨在用于 {{games}}。",
+  "not managed by Vortex": "不被 Vortex 管理",
+  "Some of the archives in your load order are incompatible with {{thisGame}}. ": "加载顺序中的部分压缩包与 {{thisGame}} 不兼容。",
+  "You can fix this problem yourself by removing any mods that are not intended to be used with {{thisGame}}. ": "你可以自行移除不适用于 {{thisGame}} 的模组来解决此问题。"
+}

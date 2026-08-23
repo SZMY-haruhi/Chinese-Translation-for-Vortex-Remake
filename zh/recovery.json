@@ -1,0 +1,13 @@
+{
+  "Caution": "警告",
+  "Create Backup": "创建备份",
+  "Database backup": "数据库备份",
+  "From file (DANGEROUS!)...": "来自文件（危险！）...",
+  "Last hourly backup ({{time}})": "最近的每小时备份 ({{time}})",
+  "Last manual backup ({{time}})": "最近的手动备份 ({{time}})",
+  "Last successful startup ({{time}})": "最近的启动备份 ({{time}})",
+  "Reset to manifest": "还原更改",
+  "Restore": "恢复",
+  "Vortex stores application settings as well as mod meta data and a lot ": "Vortex 会存储应用设置、模组元数据以及大量",
+  "You can have up to 3 backups: One is automatically created whenever Vortex ": "最多可保留 3 份备份：每当 Vortex"
+}

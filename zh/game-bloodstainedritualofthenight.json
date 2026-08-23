@@ -1,0 +1,5 @@
+{
+  "The load order file is in a corrupt state. You can try to fix it yourself ": "加载顺序文件已损坏。你可以尝试自行修复",
+  "The load order file is in a corrupt state. You can try to fix it yourself or Vortex can regenerate the file for you, but that may result in loss of data (Will only affect load order items you added manually, if any).": "加载顺序文件处于损坏状态。您可以尝试自己修复，或者 Vortex 可以为您重新生成文件，但这可能会导致数据丢失（仅会影响您手动添加的加载顺序项，如果有的话）。",
+  "Vortex has discovered the following unmanaged/external files in the ": "Vortex 在以下位置发现了未托管/外部文件"
+}

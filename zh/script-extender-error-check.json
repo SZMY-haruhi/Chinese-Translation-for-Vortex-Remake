@@ -1,0 +1,6 @@
+{
+  "[url={{logPathURI}}]{{logPath}}[/url] {{pathSep}} [url={{logURI}}]{{logName}}[/url]<br/>": "[url={{logPathURI}}]{{logPath}}[/url] {{pathSep}} [url={{logURI}}]{{logName}}[/url]<br/>",
+  "<manually installed>": "<手动安装>",
+  "Last time you ran the game or Creation kit, one or more script extender ": "上次运行游戏或 Creation Kit 时，有一个或多个脚本扩展",
+  "Last time you ran the game or Creation kit, one or more script extender plugins failed to load; this is according to:<br/>{{errorInformation}}This normally happens when you try to load mods which are not compatible with the installed version of the script extender.<br/>To fix this problem you can check for an update on the mod page of the failed plugin or disable the mod until it is updated.<br/><br/>Error(s) reported:<br/>": "上次运行游戏或 Creation Kit 时，一个或多个脚本扩展插件未能加载；这是根据：<br/>{{errorInformation}} 这通常发生在您尝试加载与已安装的脚本扩展器版本不兼容的模组时。<br/> 要解决这个问题，您可以在失败的插件的模组页面上检查更新，或在插件更新之前禁用该模组。<br/><br/> 报告的错误：<br/>"
+}

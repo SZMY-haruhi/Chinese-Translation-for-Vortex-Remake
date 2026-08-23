@@ -1,0 +1,59 @@
+{
+  "\"Edit\" allows you to input the ini tweak you want to apply to the target ini file. Please provide the section as well as your tweak(s). e.g.:\n\n[General]\nsIntroSequence=0": "“编辑”允许你输入你想要应用到目标 ini 文件的 ini 调整。请提供相应的部分以及你的调整。例如：\n\n[General]\nsIntroSequence=0",
+  "Already queued mod installations will still finish": "已排定的模组安装仍将完成",
+  "browse": {
+    "modsComingSoon": {
+      "description": "很快就能直接在 Vortex 中浏览模组。在此之前，请前往 Nexus Mods 发现并下载模组。",
+      "openWebsite": "打开 Nexus Mods 网站",
+      "title": "模组浏览即将推出"
+    },
+    "noCollections": {
+      "message": "前往网站浏览模组，开始搭建你自己的配置。",
+      "title": "此游戏没有找到整合包结果"
+    },
+    "refresh": "刷新",
+    "resultsCount": "{{total}} 个结果",
+    "searchPlaceholder": "搜索整合包...",
+    "searchTooShort": "搜索至少需要 2 个字符。请输入更多内容或清空搜索。",
+    "selectGame": "请先选择一款游戏以浏览整合包。",
+    "sortBy": "排序方式",
+    "tabs": {
+      "collections": "整合包",
+      "mods": "模组"
+    },
+    "title": "浏览整合包（{{total}}）"
+  },
+  "Collection isn't fully installed": "整合包未完全安装",
+  "Collection pausing": "整合包暂停",
+  "Collection submitted": "整合包已提交",
+  "collection-own-page": "创建自己的整合包并与Nexus Mods社区分享。您可以在<1>这里</1>查看所有上传的整合包。",
+  "Deleting a collection will not remove the mods that have been added to it.\n\nAny changes made to this collection since the last upload to Nexus Mods will be lost.\n\nAre you sure you want to remove \"{{collectionName}}\" from your Workshop?": "删除整合包不会移除已添加到其中的模组。\n\n自上次上传到 Nexus Mods 以来对整合包所做的任何更改都将丢失。\n\n你确定要将“{{collectionName}}”从你的工坊中移除吗？",
+  "Download the latest meta information about your installed and owned collections. This will reset local changes to names of collections in your workshop.": "下载关于你已安装和拥有的整合包的最新元信息。这将重置你在工坊中对整合包名称的本地更改。",
+  "Enter instructions here (Markdown supported - Links, Bold, Italics)": "在这里输入说明（支持 Markdown——链接，粗体，斜体）",
+  "Failed to install dependencies": "安装依赖失败",
+  "Failed to remove collection": "移除整合包失败",
+  "Failed to upload to API": "上传到 API 失败",
+  "From Profile": "从配置文件",
+  "Mods need to be in an installed state in order to add them to a collection. If the mod you want to add is not in this list, make sure it's installed.": "模组需要处于已安装状态才能将其添加到整合包中。如果您想添加的模组不在此列表中，请确保它已安装。",
+  "Not logged in": "未登录",
+  "pagination": {
+    "go": "跳转",
+    "goTo": "跳转到：",
+    "pageNumber": "页码"
+  },
+  "Removal failed": "移除失败",
+  "Remove Collection (Workshop)": "移除整合包（工坊）",
+  "Share on Nexus Mods": "在 Nexus Mods 上分享",
+  "Sorry to hear that the collection \"undefined\" isn't working for you. Here are some steps that could help:": "很抱歉听到“未定义”整合包对您不起作用。以下是一些可能有帮助的步骤：",
+  "This collection has {{count}} optional mods which are not required to complete the installation but may provide additional features or options. You can view these mods before installing as they may change the default behavior of the collection or have additional requirements.": "此整合包有 {{count}} 个可选模组，它们不是完成安装所必需的，但可能提供额外的功能或选项。你可以在安装前查看这些模组，因为它们可能会改变整合包的默认行为或有额外的要求。",
+  "This collection has been uploaded with a different account ({{uploadAuthor}}) than you're using now ({{currentUser}}). If you edit and upload this collection now it will be uploaded as a new collection by your current user.": "此整合包是用不同的账户（{{uploadAuthor}}）上传的，而不是你现在使用的账户（{{currentUser}}）。如果你现在编辑并上传此整合包，它将作为你当前用户的新整合包上传。",
+  "This screen lets you set up tweaks for the game ini file that will be applied to a user's setup when they use your collection.": "此页面允许你设置游戏 ini 文件的调整，当用户使用你的整合包时，这些调整将被应用到他们的设置中。",
+  "To assist in the testing of INI configuration application - any enabled INI modification on this page will be applied to your own environment in the next deployment event; IF the collection mod is enabled.": "协助测试 INI 配置应用 - 如果启用了整合包模组，此页面上任何启用的 INI 修改将在下一次部署事件中应用到你自己的环境中。",
+  "To disable/enable an INI tweak, simply click on the button itself (in the status column). If needed, INI tweak can be removed by clicking the arrow next to the button and selecting \"Remove\"": "要禁用 / 启用一个 INI 调整，只需点击按钮本身（在状态列中）。如果需要，可以通过点击按钮旁边的箭头并选择“移除”来移除 INI 调整。",
+  "Upload": "上传",
+  "Upload New": "新上传",
+  "Users can toggle these ini tweaks individually so you may want to set up multiple tweaks to give users granular control.": "用户可以单独切换这些 ini 调整，所以你可能会想要设置多个调整以给用户提供更细致的控制。",
+  "You can also add mods to a collection from the mods screen: Right-click > Add to Collection": "您还可以从模组页面将模组添加到整合包：右键单击 > 添加到整合包",
+  "You can only upload collections that are fully installed on this system.\nIf you have removed mods that were part of this collection you may want to remove them from the collection as well. If this collection is connected to a profile you can simply update from that.": "你只能上传在此系统上完全安装的整合包。\n如果你已经移除了此整合包的一部分模组，你可能也想从整合包中移除它们。如果此整合包与一个配置文件相关联，你可以简单地从那里更新。",
+  "You have to be logged in with Nexus Mods to install collections.": "你必须使用 Nexus Mods 登录才能安装整合包。"
+}

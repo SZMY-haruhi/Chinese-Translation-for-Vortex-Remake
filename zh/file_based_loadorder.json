@@ -1,0 +1,19 @@
+{
+  " If you believe a load order entry is missing, please ensure the ": " 如果你认为缺少加载顺序条目，请确认",
+  " Note that the game you've created this collection for relies on a load order ": " 请注意，你为该游戏创建的整合包依赖加载顺序",
+  "Changing your load order": "更改加载顺序",
+  "Go to Load Order Page": "转到加载顺序页面",
+  "Load Order": "加载顺序",
+  "Load Order page.": "加载顺序页面。",
+  "Must clear filter to apply changes": "必须清除过滤器以应用更改",
+  "No validation errors.": "没有验证错误。",
+  "Not managed by Vortex": "不是由 Vortex 管理的",
+  "Open Load Order Page": "打开加载顺序页面",
+  "Please make sure to deploy": "请确定部署",
+  "Search for a specific load order entry...": "搜索特定加载顺序条目...",
+  "This is a snapshot of the load order information that ": "这是加载顺序信息的快照，",
+  "Validation Error Console:": "验证错误控制台:",
+  "You can make changes to this data from the ": "您可以更改此数据从",
+  "You don't have any orderable entries": "您没有任何可排序的条目",
+  "You have no load order entries (for the current mods in the collection)": "您没有加载顺序记录（对于整合包中的当前模组）"
+}

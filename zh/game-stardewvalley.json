@@ -1,0 +1,12 @@
+{
+  "If checked, when you install a mod for Stardew Valley you may get ": "勾选后，为《星露谷物语》安装模组时可能会",
+  "Manage SDV mod configuration files": "管理《星露谷物语》模组配置文件",
+  "No information": "无信息",
+  "SMAPI suggests updating this mod to {{update}}. ": "SMAPI 建议将此模组更新到 {{update}}。",
+  "SMAPI suggests updating this mod to {{update}}. Please use Vortex to check for mod updates": "SMAPI 建议将此模组更新至 {{update}}。请使用 Vortex 检查模组更新",
+  "SMAPI update required": "需要 SMAPI 更新",
+  "Some Stardew Valley mods require a newer version of SMAPI to function correctly, ": "部分《星露谷物语》模组需要更新的 SMAPI 才能正常工作，",
+  "Stardew Valley": "星露谷物语",
+  "Use recommendations from the mod manifests": "使用模组清单中的推荐",
+  "Vortex by default is configured to attempt to pull-in newly created files (mod configuration json files for example) ": "Vortex 默认会尝试纳入新创建的文件（例如模组配置 json）"
+}

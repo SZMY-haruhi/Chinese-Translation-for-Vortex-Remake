@@ -1,0 +1,13 @@
+{
+  "Attention": "注意",
+  "Back": "后退",
+  "Cancel": "取消",
+  "Continue": "继续",
+  "Copy URL to clipboard": "复制网址到剪贴板",
+  "Forward": "前进",
+  "If you have security concerns or don't fully trust this page, please don't ": "如果你有安全顾虑或不完全信任此页面，请不要",
+  "Please be aware that Vortex is based on Electron which in turn is based on ": "请注意，Vortex 基于 Electron，而 Electron 又基于",
+  "Skip": "跳过",
+  "This window will close as soon as you click a valid download link": "当您点击有效的下载链接后，此窗口将立即关闭",
+  "Vortex is about to open an external web page:": "Vortex 即将打开一个外部网页："
+}

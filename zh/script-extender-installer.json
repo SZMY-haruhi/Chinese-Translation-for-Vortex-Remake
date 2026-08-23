@@ -1,0 +1,7 @@
+{
+  "Looks like you selected the wrong file. Please try again.": "看来您选择了错误的文件。请再试一遍。",
+  "Script Extender Mismatch - {{file}}": "脚本扩展程序不匹配 - {{file}}",
+  "To install {{name}}, download the latest 7z archive for {{gameName}}.": "要安装 {{name}}，请下载 {{gameName}} 的最新 7z 压缩文件。",
+  "Vortex could not automatically determine the correct version of {{name}} for your game. \n\n": "Vortex 无法自动确定适合你游戏的 {{name}} 正确版本。\n\n",
+  "Your primary tool/starter for this game is a Script Extender, but it appears to be misconfigured. ": "此游戏的主工具/启动器是脚本扩展，但似乎配置不正确。"
+}

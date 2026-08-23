@@ -1,0 +1,12 @@
+{
+  "Allow Symlinks without elevation": "允许不带提权的符号链接",
+  "Allow Symlinks without elevation (old mechanism, pre Vortex v1.4.3)": "允许没有提权的符号链接 (旧的机制，在 Vortex v1.4.3 之前)",
+  "Elevation not required on non-windows systems": "非 Windows 系统不需要提权",
+  "Game doesn't support symlinks": "游戏不支持符号链接",
+  "Incompatible with \"{{name}}\".": "与“{{name}}”不兼容。",
+  "No need to use the elevated variant, use the regular symlink deployment": "无需使用提权的变体，使用常规符号链接部署",
+  "Symbolic links are special files containing a reference to another file. ": "符号链接是包含另一文件引用的特殊文件。",
+  "Symlinks": "符号链接",
+  "This feature doesn't seem to be supported on your system: {{reason}}": "您的系统似乎不支持此功能：{{reason}}",
+  "You have to log out the user account or reboot windows for this change to be ": "需要注销用户账户或重启 Windows 后，此更改才会"
+}

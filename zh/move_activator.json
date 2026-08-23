@@ -1,0 +1,10 @@
+{
+  "Can't write to output directory": "无法写入输出目录",
+  "Game doesn't support the move deployment method": "游戏不支持移动部署方法",
+  "Game not discovered.": "未找到游戏。",
+  "Game not fully initialized yet, this should disappear soon.": "游戏尚未完全初始化，这应该很快就会消失。",
+  "Please go to Settings->Mods and set the mod staging folder to be on ": "请前往 设置 → 模组，将模组暂存文件夹设到",
+  "This deployment method doesn't use links but actually moves files to the destination ": "此部署方法不使用链接，而是把文件实际移动到目标",
+  "To resolve this problem, the current user account needs to ": "要解决此问题，当前用户账户需要",
+  "Works only if mods are installed on the same drive as the game": "仅当模组安装在与游戏相同的驱动器上时才有效"
+}

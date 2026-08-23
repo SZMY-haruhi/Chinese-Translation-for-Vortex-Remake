@@ -1,0 +1,5152 @@
+[
+  {
+    "ns": "collection",
+    "key": "browse.title",
+    "en": "Browse Collections ({{total}})"
+  },
+  {
+    "ns": "collection",
+    "key": "browse.selectGame",
+    "en": "Please select a game to browse collections."
+  },
+  {
+    "ns": "collection",
+    "key": "browse.noCollections.title",
+    "en": "No collection results found for this game"
+  },
+  {
+    "ns": "collection",
+    "key": "browse.noCollections.message",
+    "en": "Browse mods on the website to start building your own setup."
+  },
+  {
+    "ns": "collection",
+    "key": "browse.searchPlaceholder",
+    "en": "Search collections..."
+  },
+  {
+    "ns": "collection",
+    "key": "browse.searchTooShort",
+    "en": "Search requires at least 2 characters. Please enter more text or clear the search."
+  },
+  {
+    "ns": "collection",
+    "key": "browse.resultsCount",
+    "en": "{{total}} results"
+  },
+  {
+    "ns": "collection",
+    "key": "browse.modsComingSoon.title",
+    "en": "Mod browsing is coming soon"
+  },
+  {
+    "ns": "collection",
+    "key": "browse.modsComingSoon.description",
+    "en": "You'll soon be able to browse mods directly in Vortex. Until then, visit Nexus Mods to discover and download mods."
+  },
+  {
+    "ns": "collection",
+    "key": "browse.modsComingSoon.openWebsite",
+    "en": "Open Nexus Mods Website"
+  },
+  {
+    "ns": "collection",
+    "key": "pagination.goTo",
+    "en": "Go to:"
+  },
+  {
+    "ns": "collection",
+    "key": "pagination.pageNumber",
+    "en": "Page number"
+  },
+  {
+    "ns": "collection",
+    "key": "pagination.go",
+    "en": "Go"
+  },
+  {
+    "ns": "common",
+    "key": "view_all",
+    "en": "View all"
+  },
+  {
+    "ns": "common",
+    "key": "hide_all",
+    "en": "Hide all"
+  },
+  {
+    "ns": "common",
+    "key": "unhide",
+    "en": "Unhide"
+  },
+  {
+    "ns": "common",
+    "key": "unhide_all",
+    "en": "Unhide all"
+  },
+  {
+    "ns": "common",
+    "key": "active",
+    "en": "Active"
+  },
+  {
+    "ns": "common",
+    "key": "hidden",
+    "en": "Hidden"
+  },
+  {
+    "ns": "common",
+    "key": "helpful",
+    "en": "Helpful"
+  },
+  {
+    "ns": "common",
+    "key": "not_helpful",
+    "en": "Not helpful"
+  },
+  {
+    "ns": "common",
+    "key": "thanks_for_your_feedback",
+    "en": "Thanks for your feedback"
+  },
+  {
+    "ns": "health_check",
+    "key": "actions.install_all",
+    "en": "1-click install all ({{count}})"
+  },
+  {
+    "ns": "health_check",
+    "key": "divider.and",
+    "en": "And"
+  },
+  {
+    "ns": "health_check",
+    "key": "divider.or",
+    "en": "Or"
+  },
+  {
+    "ns": "health_check",
+    "key": "shared.requires_files",
+    "en": "Requires {{ count }} additional mod file to be installed to work correctly:"
+  },
+  {
+    "ns": "health_check",
+    "key": "shared.requires_files_plural",
+    "en": "Requires {{ count }} additional mod files to be installed to work correctly:"
+  },
+  {
+    "ns": "health_check",
+    "key": "shared.requires_pick",
+    "en": "Requires {{ count }} additional mod file to be picked to work correctly:"
+  },
+  {
+    "ns": "health_check",
+    "key": "shared.requires_pick_plural",
+    "en": "Requires {{ count }} additional mod files to be picked to work correctly:"
+  },
+  {
+    "ns": "health_check",
+    "key": "shared.wrong_version_installed",
+    "en": "Requires installing a different version of this existing mod file to work correctly:"
+  },
+  {
+    "ns": "health_check",
+    "key": "shared.wrong_version_installed_plural",
+    "en": "Requires installing a different version of {{ count }} existing mod files to work correctly:"
+  },
+  {
+    "ns": "health_check",
+    "key": "shared.wrong_version_enabled",
+    "en": "Requires enabling a different version of this installed mod file to work correctly:"
+  },
+  {
+    "ns": "health_check",
+    "key": "shared.wrong_version_enabled_plural",
+    "en": "Requires enabling a different version of {{ count }} installed mod files to work correctly:"
+  },
+  {
+    "ns": "health_check",
+    "key": "shared.correct_version_uninstalled",
+    "en": "Requires installing this previously downloaded mod file to work correctly:"
+  },
+  {
+    "ns": "health_check",
+    "key": "shared.correct_version_uninstalled_plural",
+    "en": "Requires installing {{ count }} previously downloaded mod files to work correctly:"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.title",
+    "en": "Health Check"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.subtitle",
+    "en": "Review your Loadout for any issues and learn how to resolve them if needed."
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.item.title",
+    "en": "Additional mod file may be required for: {{modName}}"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.item.description",
+    "en": "Missing mod: {{dependencyModName}}"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.item.more_count",
+    "en": "+{{ count }} more"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.item.missing_for",
+    "en": "Missing required mod for: {{modName}}"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.item.missing_for_plural",
+    "en": "Missing required mods for: {{modName}}"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.no_results_active.title",
+    "en": "Health check passed"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.no_results_active.message",
+    "en": "Ready for gaming"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.no_results_hidden.title",
+    "en": "No hidden items"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.external_mod_install",
+    "en": "External mod install"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.install_one_click",
+    "en": "1-click install ({{count}})"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.install_uninstalled",
+    "en": "Install (downloaded)"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.pick_mod_install",
+    "en": "Pick mod install"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing.premium_banner.description",
+    "en": "Download requirements in 1-click. No page visits or waiting. <premiumLink>Go premium</premiumLink>"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.subtitle.suggestion",
+    "en": "Changes that could improve your loadout."
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.subtitle.warning",
+    "en": "Issues that may stop parts of your loadout from working."
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.subtitle.error",
+    "en": "Issues will prevent your game from working. Fix before playing."
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.was_this_helpful.suggestion",
+    "en": "Was this suggestion helpful?"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.was_this_helpful.warning",
+    "en": "Was this warning helpful?"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.was_this_helpful.error",
+    "en": "Was this error helpful?"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.title",
+    "en": "Possible missing required mod for: {{modName}}"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.may_require_file",
+    "en": "May require this additional mod file to be installed to work correctly:"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.author_note",
+    "en": "Author note: {{note}}"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.mod_page_source_note",
+    "en": "This requirement was identified from the mod page rather than the file-level requirement system, so it may not be required for your specific configuration. <modLink>View the mod page to get full details</modLink>."
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.open_external_mod_page",
+    "en": "Open external mod page"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.external_hosted_note",
+    "en": "This mod is hosted outside Nexus Mods. Check the description before installing."
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.after_installing",
+    "en": "After installing, click Confirm install. We can’t automatically detect external mod installations."
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.confirm_install",
+    "en": "Confirm install"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.missing_for",
+    "en": "Missing required mod for: <modLink>{{modName}}</modLink>"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.missing_for_plural",
+    "en": "Missing required mods for: <modLink>{{modName}}</modLink>"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.install_via_mod_page",
+    "en": "Install via mod page"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.install_one_click",
+    "en": "1-click install"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.pick_one",
+    "en": "Pick one of these"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.install_required",
+    "en": "Install required"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.different_version_required",
+    "en": "Different version install required"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.current_version",
+    "en": "Current version"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.required_version",
+    "en": "Required version:"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.enable_required",
+    "en": "Enable required version"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.view_in_mods",
+    "en": "View in Mods"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.enable_this_version",
+    "en": "Enable this version"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.item.install_uninstalled",
+    "en": "Install (downloaded)"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.feedback_modal.title",
+    "en": "Thanks for letting us know"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.feedback_modal.description",
+    "en": "Help us improve this message by telling us what went wrong."
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.feedback_modal.options.incorrect_requirement",
+    "en": "Incorrect requirement"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.feedback_modal.options.requirement_already_installed",
+    "en": "Requirement already installed"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.feedback_modal.options.explanation_was_unclear",
+    "en": "Explanation was unclear"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail.feedback_modal.buttons.confirm",
+    "en": "Send feedback"
+  },
+  {
+    "ns": "health_check",
+    "key": "settings.title",
+    "en": "Health Check (Beta)"
+  },
+  {
+    "ns": "health_check",
+    "key": "settings.description",
+    "en": "Detect issues with your mod list and suggest fixes. More checks are coming soon."
+  },
+  {
+    "ns": "health_check",
+    "key": "settings.mod_requirements",
+    "en": "Missing mod requirements suggestions"
+  },
+  {
+    "ns": "health_check",
+    "key": "settings.file_requirements",
+    "en": "Missing file requirements warnings"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium.modal.title.single",
+    "en": "Skip the website and install instantly."
+  },
+  {
+    "ns": "health_check",
+    "key": "premium.modal.title.all",
+    "en": "Skip the website and install all requirements instantly."
+  },
+  {
+    "ns": "health_check",
+    "key": "premium.modal.description.single",
+    "en": "1-click in app installs are a Premium feature.\n\nFree users download through the website mod pages where ads help keep the platform running."
+  },
+  {
+    "ns": "health_check",
+    "key": "premium.modal.description.all",
+    "en": "1-click in app installs are a Premium feature.\n\nFree users download through the website mod pages where ads help keep the platform running."
+  },
+  {
+    "ns": "health_check",
+    "key": "premium.modal.benefits_title",
+    "en": "With Premium you get:"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium.modal.benefits.downloads",
+    "en": "1-click in app downloads and mod updates"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium.modal.benefits.collections",
+    "en": "1-click collection installs"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium.modal.benefits.speed",
+    "en": "Uncapped download speeds"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium.modal.benefits.ad_free",
+    "en": "Ad-free for life, even if you cancel later"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium.modal.buttons.primary",
+    "en": "Unlock 1-click installs"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium.modal.buttons.secondary.single",
+    "en": "Go to mod page (free)"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium.modal.buttons.secondary.all",
+    "en": "Return and open mod pages"
+  },
+  {
+    "ns": "common",
+    "key": "<Nothing>",
+    "en": "<Nothing>"
+  },
+  {
+    "ns": "common",
+    "key": "Did you know? You can select multiple items using ctrl+click or shift+click or ",
+    "en": "Did you know? You can select multiple items using ctrl+click or shift+click or "
+  },
+  {
+    "ns": "common",
+    "key": "Toggle Disabled Columns",
+    "en": "Toggle Disabled Columns"
+  },
+  {
+    "ns": "common",
+    "key": "Data & Privacy",
+    "en": "Data & Privacy"
+  },
+  {
+    "ns": "common",
+    "key": "Allow this app to collect usage data to improve your experience",
+    "en": "Allow this app to collect usage data to improve your experience"
+  },
+  {
+    "ns": "common",
+    "key": "Help us provide you with the best modding experience. With your permission, we will collect analytics information and send it to our team to help us improve quality and performance. This information is sent anonymously and will never be shared with a 3rd party.",
+    "en": "Help us provide you with the best modding experience. With your permission, we will collect analytics information and send it to our team to help us improve quality and performance. This information is sent anonymously and will never be shared with a 3rd party."
+  },
+  {
+    "ns": "common",
+    "key": "More about the data we track",
+    "en": "More about the data we track"
+  },
+  {
+    "ns": "common",
+    "key": "Privacy Policy",
+    "en": "Privacy Policy"
+  },
+  {
+    "ns": "common",
+    "key": "Please be aware that Vortex is based on Electron which in turn is based on ",
+    "en": "Please be aware that Vortex is based on Electron which in turn is based on "
+  },
+  {
+    "ns": "common",
+    "key": "If you have security concerns or don't fully trust this page, please don't ",
+    "en": "If you have security concerns or don't fully trust this page, please don't "
+  },
+  {
+    "ns": "common",
+    "key": "The collection \"[b]{{collectionName}}[/b]\" has been classified as adult content because it contains: nudity, sexualisation, extreme violence and gore, or excessive profanity.<br/><br/>",
+    "en": "The collection \"[b]{{collectionName}}[/b]\" has been classified as adult content because it contains: nudity, sexualisation, extreme violence and gore, or excessive profanity.<br/><br/>"
+  },
+  {
+    "ns": "common",
+    "key": "Open site preferences",
+    "en": "Open site preferences"
+  },
+  {
+    "ns": "common",
+    "key": "Hide Empty",
+    "en": "Hide Empty"
+  },
+  {
+    "ns": "common",
+    "key": "Show Empty",
+    "en": "Show Empty"
+  },
+  {
+    "ns": "common",
+    "key": "Add Top Level",
+    "en": "Add Top Level"
+  },
+  {
+    "ns": "common",
+    "key": "Sort A-Z",
+    "en": "Sort A-Z"
+  },
+  {
+    "ns": "common",
+    "key": "Fetch from Nexus Mods",
+    "en": "Fetch from Nexus Mods"
+  },
+  {
+    "ns": "common",
+    "key": "Failed to fetch categories from Nexus Mods",
+    "en": "Failed to fetch categories from Nexus Mods"
+  },
+  {
+    "ns": "common",
+    "key": "Add category name...",
+    "en": "Add category name..."
+  },
+  {
+    "ns": "common",
+    "key": "No categories",
+    "en": "No categories"
+  },
+  {
+    "ns": "common",
+    "key": "No categories matching \"{{searchTerm}}\"",
+    "en": "No categories matching \"{{searchTerm}}\""
+  },
+  {
+    "ns": "common",
+    "key": "Create Category",
+    "en": "Create Category"
+  },
+  {
+    "ns": "common",
+    "key": "Sync with Nexus Mods",
+    "en": "Sync with Nexus Mods"
+  },
+  {
+    "ns": "common",
+    "key": "{{ count }} mod(s)",
+    "en": "{{ count }} mod(s)"
+  },
+  {
+    "ns": "common",
+    "key": " ({{ sub }} sub-categories with {{ nested }} mod(s))",
+    "en": " ({{ sub }} sub-categories with {{ nested }} mod(s))"
+  },
+  {
+    "ns": "common",
+    "key": "Mod not found on nexusmods.com: {{modName}} (modId: {{modId}}), ",
+    "en": "Mod not found on nexusmods.com: {{modName}} (modId: {{modId}}), "
+  },
+  {
+    "ns": "common",
+    "key": "Mod not found on nexusmods.com: {{modName}} ",
+    "en": "Mod not found on nexusmods.com: {{modName}} "
+  },
+  {
+    "ns": "common",
+    "key": "The collection will include your custom load order rules so that ",
+    "en": "The collection will include your custom load order rules so that "
+  },
+  {
+    "ns": "common",
+    "key": "Quick Collections create a backup of your mod list for easy import by another PC or mod manager. ",
+    "en": "Quick Collections create a backup of your mod list for easy import by another PC or mod manager. "
+  },
+  {
+    "ns": "common",
+    "key": "You can also add mods to a collection from the mods screen: ",
+    "en": "You can also add mods to a collection from the mods screen: "
+  },
+  {
+    "ns": "common",
+    "key": "Mods need to be in an installed state in order to add them to a collection. ",
+    "en": "Mods need to be in an installed state in order to add them to a collection. "
+  },
+  {
+    "ns": "common",
+    "key": "Download the latest meta information about your installed and owned collections. ",
+    "en": "Download the latest meta information about your installed and owned collections. "
+  },
+  {
+    "ns": "common",
+    "key": "File overrides can be considered as a type of ignore list. This page will allow you to export file overrides that ",
+    "en": "File overrides can be considered as a type of ignore list. This page will allow you to export file overrides that "
+  },
+  {
+    "ns": "common",
+    "key": "Please note that these pre-generated file overrides are toggled off by default as Vortex will ",
+    "en": "Please note that these pre-generated file overrides are toggled off by default as Vortex will "
+  },
+  {
+    "ns": "common",
+    "key": "Any mods enabled below will NOT be deployed on the user's machine. ",
+    "en": "Any mods enabled below will NOT be deployed on the user's machine. "
+  },
+  {
+    "ns": "common",
+    "key": "Exclude plugin rules",
+    "en": "Exclude plugin rules"
+  },
+  {
+    "ns": "common",
+    "key": "If enabled, custom LOOT plugin rules and groups will not be included when exporting this collection. ",
+    "en": "If enabled, custom LOOT plugin rules and groups will not be included when exporting this collection. "
+  },
+  {
+    "ns": "common",
+    "key": "By default the collection will replicate all your custom rules that dictate ",
+    "en": "By default the collection will replicate all your custom rules that dictate "
+  },
+  {
+    "ns": "common",
+    "key": "If you disable rules here your collection may produce unresolved file conflicts ",
+    "en": "If you disable rules here your collection may produce unresolved file conflicts "
+  },
+  {
+    "ns": "common",
+    "key": "<No Category>",
+    "en": "<No Category>"
+  },
+  {
+    "ns": "common",
+    "key": "Optional",
+    "en": "Optional"
+  },
+  {
+    "ns": "common",
+    "key": "N/A",
+    "en": "N/A"
+  },
+  {
+    "ns": "common",
+    "key": "Has Instructions",
+    "en": "Has Instructions"
+  },
+  {
+    "ns": "common",
+    "key": "<No Instructions>",
+    "en": "<No Instructions>"
+  },
+  {
+    "ns": "common",
+    "key": "Has Binary Patching",
+    "en": "Has Binary Patching"
+  },
+  {
+    "ns": "common",
+    "key": "<No Binary Patching>",
+    "en": "<No Binary Patching>"
+  },
+  {
+    "ns": "common",
+    "key": "Is it a collection when there's nothing in it?",
+    "en": "Is it a collection when there's nothing in it?"
+  },
+  {
+    "ns": "common",
+    "key": "Version: Choose whether the collection will install exactly the version you ",
+    "en": "Version: Choose whether the collection will install exactly the version you "
+  },
+  {
+    "ns": "common",
+    "key": "Required: Select whether the user has to install the mod or whether it's an optional recommendation. Optional mods are presented last and the user is given the choice to install them or not.",
+    "en": "Required: Select whether the user has to install the mod or whether it's an optional recommendation. Optional mods are presented last and the user is given the choice to install them or not."
+  },
+  {
+    "ns": "common",
+    "key": "Install: \"Fresh Install\" will install the mod as Vortex would usually do, ",
+    "en": "Install: \"Fresh Install\" will install the mod as Vortex would usually do, "
+  },
+  {
+    "ns": "common",
+    "key": "Source: Decides how the user downloads the mod. \"Nexus Mods\" is easiest, use the ",
+    "en": "Source: Decides how the user downloads the mod. \"Nexus Mods\" is easiest, use the "
+  },
+  {
+    "ns": "common",
+    "key": "When using \"Nexus Mods\" as a source, both the mod ID and file ID have to be ",
+    "en": "When using \"Nexus Mods\" as a source, both the mod ID and file ID have to be "
+  },
+  {
+    "ns": "common",
+    "key": "\"Replicate\" install can only be used when installing ",
+    "en": "\"Replicate\" install can only be used when installing "
+  },
+  {
+    "ns": "common",
+    "key": "Installing with \"Same Installer Options\" may break if the mod gets updated. ",
+    "en": "Installing with \"Same Installer Options\" may break if the mod gets updated. "
+  },
+  {
+    "ns": "common",
+    "key": "If you bundle a mod, the user gets exactly the version of the mod you ",
+    "en": "If you bundle a mod, the user gets exactly the version of the mod you "
+  },
+  {
+    "ns": "common",
+    "key": "The option to \"prefer exact\" version only works with sources that ",
+    "en": "The option to \"prefer exact\" version only works with sources that "
+  },
+  {
+    "ns": "common",
+    "key": "The sources \"Browse a website\" and \"Direct download\" require that ",
+    "en": "The sources \"Browse a website\" and \"Direct download\" require that "
+  },
+  {
+    "ns": "common",
+    "key": "Local edits can only be applied if the user gets the exact same files ",
+    "en": "Local edits can only be applied if the user gets the exact same files "
+  },
+  {
+    "ns": "common",
+    "key": "The option to \"bundle\" already bundles the edited files, storing ",
+    "en": "The option to \"bundle\" already bundles the edited files, storing "
+  },
+  {
+    "ns": "common",
+    "key": "\"Replicate\" depends on files being unchanged ",
+    "en": "\"Replicate\" depends on files being unchanged "
+  },
+  {
+    "ns": "common",
+    "key": "Mods are copyright protected. Only bundle mods if you are sure you ",
+    "en": "Mods are copyright protected. Only bundle mods if you are sure you "
+  },
+  {
+    "ns": "common",
+    "key": "Please verify you are allowed to do direct downloads on this site",
+    "en": "Please verify you are allowed to do direct downloads on this site"
+  },
+  {
+    "ns": "common",
+    "key": "Most websites don't allow direct downloads. Please make sure you are ",
+    "en": "Most websites don't allow direct downloads. Please make sure you are "
+  },
+  {
+    "ns": "common",
+    "key": "The installer choices for this mod haven't been saved. ",
+    "en": "The installer choices for this mod haven't been saved. "
+  },
+  {
+    "ns": "common",
+    "key": "The mod has no version number set. This isn't strictly necessary; we use the ",
+    "en": "The mod has no version number set. This isn't strictly necessary; we use the "
+  },
+  {
+    "ns": "common",
+    "key": "Premium",
+    "en": "Premium"
+  },
+  {
+    "ns": "common",
+    "key": "Auto-download collections at max speed",
+    "en": "Auto-download collections at max speed"
+  },
+  {
+    "ns": "common",
+    "key": "Unlock max download speeds",
+    "en": "Unlock max download speeds"
+  },
+  {
+    "ns": "common",
+    "key": "You have been blocked by the curator.",
+    "en": "You have been blocked by the curator."
+  },
+  {
+    "ns": "common",
+    "key": "This collection was created using a different version of the game than you have and is the most common reason why a collection doesn't work correctly.\n\n",
+    "en": "This collection was created using a different version of the game than you have and is the most common reason why a collection doesn't work correctly.\n\n"
+  },
+  {
+    "ns": "common",
+    "key": "{{count}} mod status(es) realigned",
+    "en": "{{count}} mod status(es) realigned"
+  },
+  {
+    "ns": "common",
+    "key": "{{pos}} of {{count}}",
+    "en": "{{pos}} of {{count}}"
+  },
+  {
+    "ns": "common",
+    "key": "Draft",
+    "en": "Draft"
+  },
+  {
+    "ns": "common",
+    "key": "{{rating}}%",
+    "en": "{{rating}}%"
+  },
+  {
+    "ns": "common",
+    "key": "This screen lets you set up tweaks for the game ini file that will be applied ",
+    "en": "This screen lets you set up tweaks for the game ini file that will be applied "
+  },
+  {
+    "ns": "common",
+    "key": "Users can toggle these ini tweaks individually so you may want to set up ",
+    "en": "Users can toggle these ini tweaks individually so you may want to set up "
+  },
+  {
+    "ns": "common",
+    "key": "\"Edit\" allows you to input the ini tweak you want to ",
+    "en": "\"Edit\" allows you to input the ini tweak you want to "
+  },
+  {
+    "ns": "common",
+    "key": "To assist in the testing of INI configuration application - any enabled INI modification ",
+    "en": "To assist in the testing of INI configuration application - any enabled INI modification "
+  },
+  {
+    "ns": "common",
+    "key": "To disable/enable an INI tweak, simply click on the button itself (in the status column). ",
+    "en": "To disable/enable an INI tweak, simply click on the button itself (in the status column). "
+  },
+  {
+    "ns": "common",
+    "key": "Collection installation incomplete",
+    "en": "Collection installation incomplete"
+  },
+  {
+    "ns": "common",
+    "key": "{{count}} mod could not be installed",
+    "en": "{{count}} mod could not be installed"
+  },
+  {
+    "ns": "common",
+    "key": "Some required mods failed to install (for example after a network interruption), ",
+    "en": "Some required mods failed to install (for example after a network interruption), "
+  },
+  {
+    "ns": "common",
+    "key": "This collection has {{count}} optional mods which are not required to ",
+    "en": "This collection has {{count}} optional mods which are not required to "
+  },
+  {
+    "ns": "common",
+    "key": "You now have the whole collection installed, you can start editing ",
+    "en": "You now have the whole collection installed, you can start editing "
+  },
+  {
+    "ns": "common",
+    "key": "{{count}} optional mod could not be installed",
+    "en": "{{count}} optional mod could not be installed"
+  },
+  {
+    "ns": "common",
+    "key": "Finalizing installation - deploying mods and applying collection rules...",
+    "en": "Finalizing installation - deploying mods and applying collection rules..."
+  },
+  {
+    "ns": "common",
+    "key": "View failed mods",
+    "en": "View failed mods"
+  },
+  {
+    "ns": "common",
+    "key": "Skip plugin rules",
+    "en": "Skip plugin rules"
+  },
+  {
+    "ns": "common",
+    "key": "If enabled, custom LOOT plugin rules and groups included in this collection ",
+    "en": "If enabled, custom LOOT plugin rules and groups included in this collection "
+  },
+  {
+    "ns": "common",
+    "key": "Obviously users will need to have these tools installed. If they aren't ",
+    "en": "Obviously users will need to have these tools installed. If they aren't "
+  },
+  {
+    "ns": "common",
+    "key": "View Logs",
+    "en": "View Logs"
+  },
+  {
+    "ns": "common",
+    "key": "Open Log Folder",
+    "en": "Open Log Folder"
+  },
+  {
+    "ns": "common",
+    "key": "This site delivers the file through your browser. Start the download on the page and ",
+    "en": "This site delivers the file through your browser. Start the download on the page and "
+  },
+  {
+    "ns": "common",
+    "key": "Set the number of parallel download requests to the server\n\n",
+    "en": "Set the number of parallel download requests to the server\n\n"
+  },
+  {
+    "ns": "common",
+    "key": "Regular users are restricted to 1 download thread - ",
+    "en": "Regular users are restricted to 1 download thread - "
+  },
+  {
+    "ns": "common",
+    "key": "The downloads folder has been copied [b]successfully[/b] to ",
+    "en": "The downloads folder has been copied [b]successfully[/b] to "
+  },
+  {
+    "ns": "common",
+    "key": "Vortex has encountered a corrupted and unreadable file/directory ",
+    "en": "Vortex has encountered a corrupted and unreadable file/directory "
+  },
+  {
+    "ns": "common",
+    "key": "by",
+    "en": "by"
+  },
+  {
+    "ns": "common",
+    "key": "Some optional extensions for \"{{game}}\" are missing.[br][/br][br][/br]",
+    "en": "Some optional extensions for \"{{game}}\" are missing.[br][/br][br][/br]"
+  },
+  {
+    "ns": "common",
+    "key": "Failed to load: {{message}}",
+    "en": "Failed to load: {{message}}"
+  },
+  {
+    "ns": "common",
+    "key": "Depends on '{{dependencyId}}' version '{{version}}'",
+    "en": "Depends on '{{dependencyId}}' version '{{version}}'"
+  },
+  {
+    "ns": "common",
+    "key": "Depends on '{{dependencyId}}'",
+    "en": "Depends on '{{dependencyId}}'"
+  },
+  {
+    "ns": "common",
+    "key": "Unknown error '{{id}}'",
+    "en": "Unknown error '{{id}}'"
+  },
+  {
+    "ns": "common",
+    "key": "This is a snapshot of the load order information that ",
+    "en": "This is a snapshot of the load order information that "
+  },
+  {
+    "ns": "common",
+    "key": " If you believe a load order entry is missing, please ensure the ",
+    "en": " If you believe a load order entry is missing, please ensure the "
+  },
+  {
+    "ns": "common",
+    "key": " Note that the game you've created this collection for relies on a load order ",
+    "en": " Note that the game you've created this collection for relies on a load order "
+  },
+  {
+    "ns": "common",
+    "key": "<Invalid Drive>",
+    "en": "<Invalid Drive>"
+  },
+  {
+    "ns": "common",
+    "key": "Display as",
+    "en": "Display as"
+  },
+  {
+    "ns": "common",
+    "key": "Show hidden items",
+    "en": "Show hidden items"
+  },
+  {
+    "ns": "common",
+    "key": "Reset to default",
+    "en": "Reset to default"
+  },
+  {
+    "ns": "common",
+    "key": "It may not be supported yet but adding it yourself may be easier than you think.",
+    "en": "It may not be supported yet but adding it yourself may be easier than you think."
+  },
+  {
+    "ns": "common",
+    "key": "Learn how to make an extension",
+    "en": "Learn how to make an extension"
+  },
+  {
+    "ns": "common",
+    "key": "The currently identified game store for your selected game directory is: \"{{gameStore}}\".[br][/br][br][/br]",
+    "en": "The currently identified game store for your selected game directory is: \"{{gameStore}}\".[br][/br][br][/br]"
+  },
+  {
+    "ns": "common",
+    "key": "The game store has changed from \"{{oldStore}}\" to \"{{newStore}}\".\n\n",
+    "en": "The game store has changed from \"{{oldStore}}\" to \"{{newStore}}\".\n\n"
+  },
+  {
+    "ns": "common",
+    "key": "Game store changed - mod loaders and tools ",
+    "en": "Game store changed - mod loaders and tools "
+  },
+  {
+    "ns": "common",
+    "key": "This directory doesn't appear to contain the game.\n",
+    "en": "This directory doesn't appear to contain the game.\n"
+  },
+  {
+    "ns": "common",
+    "key": "Copied mod type id to clipboard",
+    "en": "Copied mod type id to clipboard"
+  },
+  {
+    "ns": "common",
+    "key": "Vortex attempted to manage the game and has ",
+    "en": "Vortex attempted to manage the game and has "
+  },
+  {
+    "ns": "common",
+    "key": "Manage games to get started.",
+    "en": "Manage games to get started."
+  },
+  {
+    "ns": "common",
+    "key": "Search games...",
+    "en": "Search games..."
+  },
+  {
+    "ns": "common",
+    "key": "Try adjusting your search terms.",
+    "en": "Try adjusting your search terms."
+  },
+  {
+    "ns": "common",
+    "key": "No games found",
+    "en": "No games found"
+  },
+  {
+    "ns": "common",
+    "key": "Unmanaged",
+    "en": "Unmanaged"
+  },
+  {
+    "ns": "common",
+    "key": "ID:",
+    "en": "ID:"
+  },
+  {
+    "ns": "common",
+    "key": "Copy ID to clipboard",
+    "en": "Copy ID to clipboard"
+  },
+  {
+    "ns": "common",
+    "key": "File Systems store files in two parts: \n",
+    "en": "File Systems store files in two parts: \n"
+  },
+  {
+    "ns": "common",
+    "key": "To resolve this problem, the current user account needs to be given ",
+    "en": "To resolve this problem, the current user account needs to be given "
+  },
+  {
+    "ns": "common",
+    "key": "Please go to Settings->Mods and set the mod staging folder to be on ",
+    "en": "Please go to Settings->Mods and set the mod staging folder to be on "
+  },
+  {
+    "ns": "common",
+    "key": "common:::beta",
+    "en": "common:::beta"
+  },
+  {
+    "ns": "common",
+    "key": "common:::thanks_for_your_feedback",
+    "en": "common:::thanks_for_your_feedback"
+  },
+  {
+    "ns": "common",
+    "key": "common:::helpful",
+    "en": "common:::helpful"
+  },
+  {
+    "ns": "common",
+    "key": "common:::not_helpful",
+    "en": "common:::not_helpful"
+  },
+  {
+    "ns": "common",
+    "key": "common:::unhide",
+    "en": "common:::unhide"
+  },
+  {
+    "ns": "common",
+    "key": "common:::hide",
+    "en": "common:::hide"
+  },
+  {
+    "ns": "common",
+    "key": "detail::feedback_modal::title",
+    "en": "detail::feedback_modal::title"
+  },
+  {
+    "ns": "common",
+    "key": "detail::feedback_modal::description",
+    "en": "detail::feedback_modal::description"
+  },
+  {
+    "ns": "common",
+    "key": "detail::feedback_modal::buttons::cancel",
+    "en": "detail::feedback_modal::buttons::cancel"
+  },
+  {
+    "ns": "common",
+    "key": "detail::feedback_modal::buttons::confirm",
+    "en": "detail::feedback_modal::buttons::confirm"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::install_via_mod_page",
+    "en": "detail::item::install_via_mod_page"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::downloading",
+    "en": "detail::item::downloading"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::install_one_click",
+    "en": "detail::item::install_one_click"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::view_in_mods",
+    "en": "detail::item::view_in_mods"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::enable_this_version",
+    "en": "detail::item::enable_this_version"
+  },
+  {
+    "ns": "common",
+    "key": "listing::item::or_join",
+    "en": "listing::item::or_join"
+  },
+  {
+    "ns": "common",
+    "key": "listing::item::more_count",
+    "en": "listing::item::more_count"
+  },
+  {
+    "ns": "common",
+    "key": "listing::install_one_click",
+    "en": "listing::install_one_click"
+  },
+  {
+    "ns": "common",
+    "key": "listing::pick_mod_install",
+    "en": "listing::pick_mod_install"
+  },
+  {
+    "ns": "common",
+    "key": "listing::install_uninstalled",
+    "en": "listing::install_uninstalled"
+  },
+  {
+    "ns": "common",
+    "key": "actions::install_all",
+    "en": "actions::install_all"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::installing",
+    "en": "detail::item::installing"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::install_uninstalled",
+    "en": "detail::item::install_uninstalled"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::required_version",
+    "en": "detail::item::required_version"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::current_version",
+    "en": "detail::item::current_version"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::title",
+    "en": "detail::item::title"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::may_require_file",
+    "en": "detail::item::may_require_file"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::author_note",
+    "en": "detail::item::author_note"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::open_external_mod_page",
+    "en": "detail::item::open_external_mod_page"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::external_hosted_note",
+    "en": "detail::item::external_hosted_note"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::after_installing",
+    "en": "detail::item::after_installing"
+  },
+  {
+    "ns": "common",
+    "key": "detail::item::confirm_install",
+    "en": "detail::item::confirm_install"
+  },
+  {
+    "ns": "common",
+    "key": "listing::external_mod_install",
+    "en": "listing::external_mod_install"
+  },
+  {
+    "ns": "common",
+    "key": "listing::item::description",
+    "en": "listing::item::description"
+  },
+  {
+    "ns": "common",
+    "key": "listing::item::title",
+    "en": "listing::item::title"
+  },
+  {
+    "ns": "common",
+    "key": "premium::modal::benefits_title",
+    "en": "premium::modal::benefits_title"
+  },
+  {
+    "ns": "common",
+    "key": "premium::modal::benefits::downloads",
+    "en": "premium::modal::benefits::downloads"
+  },
+  {
+    "ns": "common",
+    "key": "premium::modal::benefits::collections",
+    "en": "premium::modal::benefits::collections"
+  },
+  {
+    "ns": "common",
+    "key": "premium::modal::benefits::speed",
+    "en": "premium::modal::benefits::speed"
+  },
+  {
+    "ns": "common",
+    "key": "premium::modal::benefits::ad_free",
+    "en": "premium::modal::benefits::ad_free"
+  },
+  {
+    "ns": "common",
+    "key": "premium::modal::buttons::primary",
+    "en": "premium::modal::buttons::primary"
+  },
+  {
+    "ns": "common",
+    "key": "common:::back",
+    "en": "common:::back"
+  },
+  {
+    "ns": "common",
+    "key": "listing::last_updated",
+    "en": "listing::last_updated"
+  },
+  {
+    "ns": "common",
+    "key": "listing::no_results_active::message",
+    "en": "listing::no_results_active::message"
+  },
+  {
+    "ns": "common",
+    "key": "listing::no_results_active::title",
+    "en": "listing::no_results_active::title"
+  },
+  {
+    "ns": "common",
+    "key": "listing::title",
+    "en": "listing::title"
+  },
+  {
+    "ns": "common",
+    "key": "listing::subtitle",
+    "en": "listing::subtitle"
+  },
+  {
+    "ns": "common",
+    "key": "common:::refresh",
+    "en": "common:::refresh"
+  },
+  {
+    "ns": "common",
+    "key": "common:::settings",
+    "en": "common:::settings"
+  },
+  {
+    "ns": "common",
+    "key": "common:::active",
+    "en": "common:::active"
+  },
+  {
+    "ns": "common",
+    "key": "common:::hidden",
+    "en": "common:::hidden"
+  },
+  {
+    "ns": "common",
+    "key": "common:::hide_all",
+    "en": "common:::hide_all"
+  },
+  {
+    "ns": "common",
+    "key": "common:::unhide_all",
+    "en": "common:::unhide_all"
+  },
+  {
+    "ns": "common",
+    "key": "listing::no_results_hidden::title",
+    "en": "listing::no_results_hidden::title"
+  },
+  {
+    "ns": "common",
+    "key": "settings::title",
+    "en": "settings::title"
+  },
+  {
+    "ns": "common",
+    "key": "settings::description",
+    "en": "settings::description"
+  },
+  {
+    "ns": "common",
+    "key": "settings::mod_requirements",
+    "en": "settings::mod_requirements"
+  },
+  {
+    "ns": "common",
+    "key": "settings::file_requirements",
+    "en": "settings::file_requirements"
+  },
+  {
+    "ns": "common",
+    "key": "Please note that this is not \"Undo\"! This screen allows you to revert ",
+    "en": "Please note that this is not \"Undo\"! This screen allows you to revert "
+  },
+  {
+    "ns": "common",
+    "key": "Continue Installation",
+    "en": "Continue Installation"
+  },
+  {
+    "ns": "common",
+    "key": "Installation Timeout",
+    "en": "Installation Timeout"
+  },
+  {
+    "ns": "common",
+    "key": "The installation of mod \"{{ modName }}\" is taking longer than expected.[br][/br][br][/br]",
+    "en": "The installation of mod \"{{ modName }}\" is taking longer than expected.[br][/br][br][/br]"
+  },
+  {
+    "ns": "common",
+    "key": "Error reading file content",
+    "en": "Error reading file content"
+  },
+  {
+    "ns": "common",
+    "key": "Error reading directory file list",
+    "en": "Error reading directory file list"
+  },
+  {
+    "ns": "common",
+    "key": "Error reading directory list",
+    "en": "Error reading directory list"
+  },
+  {
+    "ns": "common",
+    "key": " Note that some games will require the mods to be enabled or deployed ",
+    "en": " Note that some games will require the mods to be enabled or deployed "
+  },
+  {
+    "ns": "common",
+    "key": "Some of the enabled mods either contain no files or all files ",
+    "en": "Some of the enabled mods either contain no files or all files "
+  },
+  {
+    "ns": "common",
+    "key": "Deployment method \"{{method}}\" does not support ",
+    "en": "Deployment method \"{{method}}\" does not support "
+  },
+  {
+    "ns": "common",
+    "key": "Source website",
+    "en": "Source website"
+  },
+  {
+    "ns": "common",
+    "key": "URL this mod can be downloaded from",
+    "en": "URL this mod can be downloaded from"
+  },
+  {
+    "ns": "common",
+    "key": "Name cannot contain path separators or any of these characters: / \\ : * ? \" < > |",
+    "en": "Name cannot contain path separators or any of these characters: / \\ : * ? \" < > |"
+  },
+  {
+    "ns": "common",
+    "key": "Cancel installation",
+    "en": "Cancel installation"
+  },
+  {
+    "ns": "common",
+    "key": "Install anyway (unsafe)",
+    "en": "Install anyway (unsafe)"
+  },
+  {
+    "ns": "common",
+    "key": "Install anyway (unsafe). Don't ask again for the current session",
+    "en": "Install anyway (unsafe). Don't ask again for the current session"
+  },
+  {
+    "ns": "common",
+    "key": "Unsafe Mod Detected",
+    "en": "Unsafe Mod Detected"
+  },
+  {
+    "ns": "common",
+    "key": "\"{{modName}}\" contains C# scripts that can run code on your computer.[br][/br][br][/br]",
+    "en": "\"{{modName}}\" contains C# scripts that can run code on your computer.[br][/br][br][/br]"
+  },
+  {
+    "ns": "common",
+    "key": "Encountered errors extracting this archive. Please verify this ",
+    "en": "Encountered errors extracting this archive. Please verify this "
+  },
+  {
+    "ns": "common",
+    "key": "Pre-populate installer options from existing mod",
+    "en": "Pre-populate installer options from existing mod"
+  },
+  {
+    "ns": "common",
+    "key": "The installer in \"{{name}}\" tried to install files that were ",
+    "en": "The installer in \"{{name}}\" tried to install files that were "
+  },
+  {
+    "ns": "common",
+    "key": "{{count}} files were not correctly deployed (see log for details).\n",
+    "en": "{{count}} files were not correctly deployed (see log for details).\n"
+  },
+  {
+    "ns": "common",
+    "key": "Mod deployment {{more}} is pending.[br][/br]",
+    "en": "Mod deployment {{more}} is pending.[br][/br]"
+  },
+  {
+    "ns": "common",
+    "key": "When you install a mod through Vortex it is stored in a separate directory and has ",
+    "en": "When you install a mod through Vortex it is stored in a separate directory and has "
+  },
+  {
+    "ns": "common",
+    "key": "A dependency rule can accept multiple versions of the same mod. In that case any ",
+    "en": "A dependency rule can accept multiple versions of the same mod. In that case any "
+  },
+  {
+    "ns": "common",
+    "key": "To be able to match multiple versions of the same file we need a way to identify a set ",
+    "en": "To be able to match multiple versions of the same file we need a way to identify a set "
+  },
+  {
+    "ns": "common",
+    "key": "Version of the mod. A warning here means that the mod doesn't follow the recognized ",
+    "en": "Version of the mod. A warning here means that the mod doesn't follow the recognized "
+  },
+  {
+    "ns": "common",
+    "key": "The file name of the archive which was used to install this mod. If this field is ",
+    "en": "The file name of the archive which was used to install this mod. If this field is "
+  },
+  {
+    "ns": "common",
+    "key": "If you have multiple copies of the same mod installed ",
+    "en": "If you have multiple copies of the same mod installed "
+  },
+  {
+    "ns": "common",
+    "key": "The \"Source\" specifies where you got the mod. That source will be consulted for certain ",
+    "en": "The \"Source\" specifies where you got the mod. That source will be consulted for certain "
+  },
+  {
+    "ns": "common",
+    "key": "The downloads folder holds all mod archives you have downloaded with Vortex. It is shared across all ",
+    "en": "The downloads folder holds all mod archives you have downloaded with Vortex. It is shared across all "
+  },
+  {
+    "ns": "common",
+    "key": "Vortex uses default paths to store mods you download and install.\n",
+    "en": "Vortex uses default paths to store mods you download and install.\n"
+  },
+  {
+    "ns": "common",
+    "key": "A file conflict happens every time two mods contain the same file so one mod has to overwrite the other. ",
+    "en": "A file conflict happens every time two mods contain the same file so one mod has to overwrite the other. "
+  },
+  {
+    "ns": "common",
+    "key": "IMPORTANT: This game was modded by another instance of Vortex.\n\n",
+    "en": "IMPORTANT: This game was modded by another instance of Vortex.\n\n"
+  },
+  {
+    "ns": "common",
+    "key": "Mods have been changed on disk. This means that mods that were managed by Vortex ",
+    "en": "Mods have been changed on disk. This means that mods that were managed by Vortex "
+  },
+  {
+    "ns": "common",
+    "key": "If you continue now, Vortex will lose all meta information about the deleted ",
+    "en": "If you continue now, Vortex will lose all meta information about the deleted "
+  },
+  {
+    "ns": "common",
+    "key": "Filter...",
+    "en": "Filter..."
+  },
+  {
+    "ns": "common",
+    "key": "Vortex may have pre-selected some of the mods for you ",
+    "en": "Vortex may have pre-selected some of the mods for you "
+  },
+  {
+    "ns": "common",
+    "key": "Mod files were changed outside Vortex. ",
+    "en": "Mod files were changed outside Vortex. "
+  },
+  {
+    "ns": "common",
+    "key": "These mods were modified",
+    "en": "These mods were modified"
+  },
+  {
+    "ns": "common",
+    "key": "File content modified ",
+    "en": "File content modified "
+  },
+  {
+    "ns": "common",
+    "key": "Source files were deleted ",
+    "en": "Source files were deleted "
+  },
+  {
+    "ns": "common",
+    "key": "Links were deleted ",
+    "en": "Links were deleted "
+  },
+  {
+    "ns": "common",
+    "key": "Usually, when you first manage a game, the staging folder is initially set to be in ",
+    "en": "Usually, when you first manage a game, the staging folder is initially set to be in "
+  },
+  {
+    "ns": "common",
+    "key": "The mods staging folder has been copied [b]successfully[/b] to ",
+    "en": "The mods staging folder has been copied [b]successfully[/b] to "
+  },
+  {
+    "ns": "common",
+    "key": "This mod has no source assigned. The source tells Vortex where the mod ",
+    "en": "This mod has no source assigned. The source tells Vortex where the mod "
+  },
+  {
+    "ns": "common",
+    "key": "This mod is missing identification information. Without this some ",
+    "en": "This mod is missing identification information. Without this some "
+  },
+  {
+    "ns": "common",
+    "key": "Mod should be disabled or downgraded because this version has been ",
+    "en": "Mod should be disabled or downgraded because this version has been "
+  },
+  {
+    "ns": "common",
+    "key": "By default Vortex will only remove empty directories during deployment ",
+    "en": "By default Vortex will only remove empty directories during deployment "
+  },
+  {
+    "ns": "common",
+    "key": "This deployment method doesn't use links but actually moves files to the destination ",
+    "en": "This deployment method doesn't use links but actually moves files to the destination "
+  },
+  {
+    "ns": "common",
+    "key": "To resolve this problem, the current user account needs to ",
+    "en": "To resolve this problem, the current user account needs to "
+  },
+  {
+    "ns": "common",
+    "key": "*crickets chirp*",
+    "en": "*crickets chirp*"
+  },
+  {
+    "ns": "common",
+    "key": "Nexus Mods IDs",
+    "en": "Nexus Mods IDs"
+  },
+  {
+    "ns": "common",
+    "key": "Nexus Collection ID",
+    "en": "Nexus Collection ID"
+  },
+  {
+    "ns": "common",
+    "key": "If you've downloaded this mod from a different game section than you're managing, ",
+    "en": "If you've downloaded this mod from a different game section than you're managing, "
+  },
+  {
+    "ns": "common",
+    "key": "Chrome requires a change to a configuration file to allow an external program to handle ",
+    "en": "Chrome requires a change to a configuration file to allow an external program to handle "
+  },
+  {
+    "ns": "common",
+    "key": "The version of this mod (\"{{modName}}\") is \"{{version}}\". Is this correct?[br][/br][br][/br]",
+    "en": "The version of this mod (\"{{modName}}\") is \"{{version}}\". Is this correct?[br][/br][br][/br]"
+  },
+  {
+    "ns": "common",
+    "key": "Tracked on Nexus",
+    "en": "Tracked on Nexus"
+  },
+  {
+    "ns": "common",
+    "key": "The operation completed successfully, but the file could not be processed. ",
+    "en": "The operation completed successfully, but the file could not be processed. "
+  },
+  {
+    "ns": "common",
+    "key": "The link was not created for this account ({{ userName }}). You have to be logged ",
+    "en": "The link was not created for this account ({{ userName }}). You have to be logged "
+  },
+  {
+    "ns": "common",
+    "key": "Log In using your Nexus Mods account or register a new account ",
+    "en": "Log In using your Nexus Mods account or register a new account "
+  },
+  {
+    "ns": "common",
+    "key": "Download mod",
+    "en": "Download mod"
+  },
+  {
+    "ns": "common",
+    "key": "Cancel install",
+    "en": "Cancel install"
+  },
+  {
+    "ns": "common",
+    "key": "Skip mod",
+    "en": "Skip mod"
+  },
+  {
+    "ns": "common",
+    "key": "Vortex should have opened the following url in your default browser. ",
+    "en": "Vortex should have opened the following url in your default browser. "
+  },
+  {
+    "ns": "common",
+    "key": "Download manually",
+    "en": "Download manually"
+  },
+  {
+    "ns": "common",
+    "key": "Auto-download all",
+    "en": "Auto-download all"
+  },
+  {
+    "ns": "common",
+    "key": "A hash can be calculated from any mod archive on disk and we can ",
+    "en": "A hash can be calculated from any mod archive on disk and we can "
+  },
+  {
+    "ns": "common",
+    "key": "The mod id identifies a mod page on nexus mods. It helps us find ",
+    "en": "The mod id identifies a mod page on nexus mods. It helps us find "
+  },
+  {
+    "ns": "common",
+    "key": "The file id identifies a specific file. We need this to check for ",
+    "en": "The file id identifies a specific file. We need this to check for "
+  },
+  {
+    "ns": "common",
+    "key": "Handle Mod Manager Download buttons on",
+    "en": "Handle Mod Manager Download buttons on"
+  },
+  {
+    "ns": "common",
+    "key": "Fix Nexus Mods links in Chrome ",
+    "en": "Fix Nexus Mods links in Chrome "
+  },
+  {
+    "ns": "common",
+    "key": "This deployment method does nothing during deployment (although extensions may still ",
+    "en": "This deployment method does nothing during deployment (although extensions may still "
+  },
+  {
+    "ns": "common",
+    "key": "Playing this video will store cookies on your device",
+    "en": "Playing this video will store cookies on your device"
+  },
+  {
+    "ns": "common",
+    "key": "Profiles allow you to have multiple mod set-ups for a game at once and quickly ",
+    "en": "Profiles allow you to have multiple mod set-ups for a game at once and quickly "
+  },
+  {
+    "ns": "common",
+    "key": "Profile name must be at least {{num}} characters",
+    "en": "Profile name must be at least {{num}} characters"
+  },
+  {
+    "ns": "common",
+    "key": "Vortex stores application settings as well as mod meta data and a lot ",
+    "en": "Vortex stores application settings as well as mod meta data and a lot "
+  },
+  {
+    "ns": "common",
+    "key": "You can have up to 3 backups: One is automatically created whenever Vortex ",
+    "en": "You can have up to 3 backups: One is automatically created whenever Vortex "
+  },
+  {
+    "ns": "common",
+    "key": "By default, every user account on your system has its own \"instance\" ",
+    "en": "By default, every user account on your system has its own \"instance\" "
+  },
+  {
+    "ns": "common",
+    "key": "Disabling GPU acceleration will make the Vortex UI significantly less ",
+    "en": "Disabling GPU acceleration will make the Vortex UI significantly less "
+  },
+  {
+    "ns": "common",
+    "key": "Please be aware that toggling this only disables the interface for profiles, ",
+    "en": "Please be aware that toggling this only disables the interface for profiles, "
+  },
+  {
+    "ns": "common",
+    "key": "In advanced mode Vortex will show a couple of features ",
+    "en": "In advanced mode Vortex will show a couple of features "
+  },
+  {
+    "ns": "common",
+    "key": "Categories are maintained as a tree, so for example the Category \"Audio\" ",
+    "en": "Categories are maintained as a tree, so for example the Category \"Audio\" "
+  },
+  {
+    "ns": "common",
+    "key": "A meta server provides additional information about mods, giving you ",
+    "en": "A meta server provides additional information about mods, giving you "
+  },
+  {
+    "ns": "common",
+    "key": "The primary tool for {{game}} is no longer available.",
+    "en": "The primary tool for {{game}} is no longer available."
+  },
+  {
+    "ns": "common",
+    "key": "Use these options if you don't want to leave the Vortex window ",
+    "en": "Use these options if you don't want to leave the Vortex window "
+  },
+  {
+    "ns": "common",
+    "key": "If (and only if!) a tool is written as a console ",
+    "en": "If (and only if!) a tool is written as a console "
+  },
+  {
+    "ns": "common",
+    "key": "Run the tool as a detached process (default). When you disable this ",
+    "en": "Run the tool as a detached process (default). When you disable this "
+  },
+  {
+    "ns": "common",
+    "key": "{{ modName }} is \"sticky\". Disabling it at a later time will probably ",
+    "en": "{{ modName }} is \"sticky\". Disabling it at a later time will probably "
+  },
+  {
+    "ns": "common",
+    "key": "Symbolic links are special files containing a reference to another file. ",
+    "en": "Symbolic links are special files containing a reference to another file. "
+  },
+  {
+    "ns": "common",
+    "key": "You have to log out the user account or reboot windows for this change to be ",
+    "en": "You have to log out the user account or reboot windows for this change to be "
+  },
+  {
+    "ns": "common",
+    "key": "You can choose to either receive automatic updates only after they went through some ",
+    "en": "You can choose to either receive automatic updates only after they went through some "
+  },
+  {
+    "ns": "common",
+    "key": "Very old versions of Vortex will be locked out of network features eventually ",
+    "en": "Very old versions of Vortex will be locked out of network features eventually "
+  },
+  {
+    "ns": "common",
+    "key": "Vortex needs to access \"{{ fileName }}\" but doesn't have permission to.\n",
+    "en": "Vortex needs to access \"{{ fileName }}\" but doesn't have permission to.\n"
+  },
+  {
+    "ns": "common",
+    "key": "The game requires {{storeid}} to be running in parallel. ",
+    "en": "The game requires {{storeid}} to be running in parallel. "
+  },
+  {
+    "ns": "common",
+    "key": "Help",
+    "en": "Help"
+  },
+  {
+    "ns": "common",
+    "key": "Help centre",
+    "en": "Help centre"
+  },
+  {
+    "ns": "common",
+    "key": "View logs",
+    "en": "View logs"
+  },
+  {
+    "ns": "common",
+    "key": "<Multiple>",
+    "en": "<Multiple>"
+  },
+  {
+    "ns": "common",
+    "key": "Go premium",
+    "en": "Go premium"
+  },
+  {
+    "ns": "common",
+    "key": "View profile on web",
+    "en": "View profile on web"
+  },
+  {
+    "ns": "common",
+    "key": "Refresh user info",
+    "en": "Refresh user info"
+  },
+  {
+    "ns": "common",
+    "key": "Send feedback",
+    "en": "Send feedback"
+  },
+  {
+    "ns": "common",
+    "key": "STAGING",
+    "en": "STAGING"
+  },
+  {
+    "ns": "common",
+    "key": "All downloads",
+    "en": "All downloads"
+  },
+  {
+    "ns": "common",
+    "key": "Play",
+    "en": "Play"
+  },
+  {
+    "ns": "common",
+    "key": "This game has no specific settings in this category.",
+    "en": "This game has no specific settings in this category."
+  },
+  {
+    "ns": "common",
+    "key": "Settings specific to the game you are managing.",
+    "en": "Settings specific to the game you are managing."
+  },
+  {
+    "ns": "common",
+    "key": "Preferences",
+    "en": "Preferences"
+  },
+  {
+    "ns": "common",
+    "key": "No game-specific settings available.",
+    "en": "No game-specific settings available."
+  },
+  {
+    "ns": "common",
+    "key": "Tools are external programs or launch options used alongside the game.",
+    "en": "Tools are external programs or launch options used alongside the game."
+  },
+  {
+    "ns": "common",
+    "key": "Default launcher",
+    "en": "Default launcher"
+  },
+  {
+    "ns": "common",
+    "key": "Runs instead of the game when you hit Play",
+    "en": "Runs instead of the game when you hit Play"
+  },
+  {
+    "ns": "common",
+    "key": "Runs instead of the game when you hit Play.",
+    "en": "Runs instead of the game when you hit Play."
+  },
+  {
+    "ns": "common",
+    "key": "Pinned tools {{count}}/{{max}}",
+    "en": "Pinned tools {{count}}/{{max}}"
+  },
+  {
+    "ns": "common",
+    "key": "Pin shortcuts to your most used tools in the left menu",
+    "en": "Pin shortcuts to your most used tools in the left menu"
+  },
+  {
+    "ns": "common",
+    "key": "Pin shortcuts to your most used tools in the left menu.",
+    "en": "Pin shortcuts to your most used tools in the left menu."
+  },
+  {
+    "ns": "common",
+    "key": "Add tool",
+    "en": "Add tool"
+  },
+  {
+    "ns": "common",
+    "key": "Use the + button to add a new tool",
+    "en": "Use the + button to add a new tool"
+  },
+  {
+    "ns": "common",
+    "key": "Max pinned tools reached ({{count}}/{{max}})",
+    "en": "Max pinned tools reached ({{count}}/{{max}})"
+  },
+  {
+    "ns": "common",
+    "key": "Use the + button to add a new tool.",
+    "en": "Use the + button to add a new tool."
+  },
+  {
+    "ns": "common",
+    "key": "Already at the top",
+    "en": "Already at the top"
+  },
+  {
+    "ns": "common",
+    "key": "Move up",
+    "en": "Move up"
+  },
+  {
+    "ns": "common",
+    "key": "Already at the bottom",
+    "en": "Already at the bottom"
+  },
+  {
+    "ns": "common",
+    "key": "Move down",
+    "en": "Move down"
+  },
+  {
+    "ns": "common",
+    "key": "Unpin tool",
+    "en": "Unpin tool"
+  },
+  {
+    "ns": "common",
+    "key": "Pin tool",
+    "en": "Pin tool"
+  },
+  {
+    "ns": "common",
+    "key": "Remove default launcher",
+    "en": "Remove default launcher"
+  },
+  {
+    "ns": "common",
+    "key": "Set as default launcher",
+    "en": "Set as default launcher"
+  },
+  {
+    "ns": "common",
+    "key": "Launch tool",
+    "en": "Launch tool"
+  },
+  {
+    "ns": "common",
+    "key": "<None>",
+    "en": "<None>"
+  },
+  {
+    "ns": "common",
+    "key": "Configure Vortex and manage your preferences.",
+    "en": "Configure Vortex and manage your preferences."
+  },
+  {
+    "ns": "common",
+    "key": "Please understand that this is only for feedback for the ",
+    "en": "Please understand that this is only for feedback for the "
+  },
+  {
+    "ns": "common",
+    "key": "Sorry, due to large amount of feedback we receive we can't accept feedback ",
+    "en": "Sorry, due to large amount of feedback we receive we can't accept feedback "
+  },
+  {
+    "ns": "common",
+    "key": "Describe in detail what you were doing and the feedback ",
+    "en": "Describe in detail what you were doing and the feedback "
+  },
+  {
+    "ns": "common",
+    "key": "Vortex does not impose any speed limitations on downloads, ",
+    "en": "Vortex does not impose any speed limitations on downloads, "
+  },
+  {
+    "ns": "common",
+    "key": "We can not forward your problems to the web department so please don't report ",
+    "en": "We can not forward your problems to the web department so please don't report "
+  },
+  {
+    "ns": "common",
+    "key": "Please make sure you've read the login instructions in Vortex, on the authorisation ",
+    "en": "Please make sure you've read the login instructions in Vortex, on the authorisation "
+  },
+  {
+    "ns": "common",
+    "key": "You are not logged in. Please include your username in your message to give us a ",
+    "en": "You are not logged in. Please include your username in your message to give us a "
+  },
+  {
+    "ns": "common",
+    "key": "If you send feedback anonymously we can not give you updates on your report ",
+    "en": "If you send feedback anonymously we can not give you updates on your report "
+  },
+  {
+    "ns": "common",
+    "key": "This will attach your Vortex setting to the report, not including ",
+    "en": "This will attach your Vortex setting to the report, not including "
+  },
+  {
+    "ns": "common",
+    "key": "This will attach your Vortex state to the report. This includes information about ",
+    "en": "This will attach your Vortex state to the report. This includes information about "
+  },
+  {
+    "ns": "common",
+    "key": "You have configured Vortex to run FNIS automatically but it's not installed for this game. ",
+    "en": "You have configured Vortex to run FNIS automatically but it's not installed for this game. "
+  },
+  {
+    "ns": "common",
+    "key": "You have configured Vortex to run FNIS automatically but the installed version of FNIS is ",
+    "en": "You have configured Vortex to run FNIS automatically but the installed version of FNIS is "
+  },
+  {
+    "ns": "common",
+    "key": "Any time you deploy, Vortex will check if any mod containing animations ",
+    "en": "Any time you deploy, Vortex will check if any mod containing animations "
+  },
+  {
+    "ns": "common",
+    "key": "Some of the archives in your load order are incompatible with {{thisGame}}. ",
+    "en": "Some of the archives in your load order are incompatible with {{thisGame}}. "
+  },
+  {
+    "ns": "common",
+    "key": "You can fix this problem yourself by removing any mods that are not intended to be used with {{thisGame}}. ",
+    "en": "You can fix this problem yourself by removing any mods that are not intended to be used with {{thisGame}}. "
+  },
+  {
+    "ns": "common",
+    "key": "This adds a mod to vortex that provides Archive Invalidation ",
+    "en": "This adds a mod to vortex that provides Archive Invalidation "
+  },
+  {
+    "ns": "common",
+    "key": "Use this to directly control the mod index of a plugin.\n",
+    "en": "Use this to directly control the mod index of a plugin.\n"
+  },
+  {
+    "ns": "common",
+    "key": "Actual index differs. If this is the case after sorting it may be ",
+    "en": "Actual index differs. If this is the case after sorting it may be "
+  },
+  {
+    "ns": "common",
+    "key": "These plugins could not be parsed by LOOT and were skipped so the rest of your ",
+    "en": "These plugins could not be parsed by LOOT and were skipped so the rest of your "
+  },
+  {
+    "ns": "common",
+    "key": "This might be a temporary network error. ",
+    "en": "This might be a temporary network error. "
+  },
+  {
+    "ns": "common",
+    "key": "tie breaker",
+    "en": "tie breaker"
+  },
+  {
+    "ns": "common",
+    "key": "Reset customized groups between \"{{first}}@{{firstGroup}}\" ",
+    "en": "Reset customized groups between \"{{first}}@{{firstGroup}}\" "
+  },
+  {
+    "ns": "common",
+    "key": "LOOT reported a cyclic interaction between rules.<br />",
+    "en": "LOOT reported a cyclic interaction between rules.<br />"
+  },
+  {
+    "ns": "common",
+    "key": "Your userlist refers to groups that don't exist: {{missing}}[br][/br]",
+    "en": "Your userlist refers to groups that don't exist: {{missing}}[br][/br]"
+  },
+  {
+    "ns": "common",
+    "key": "Your userlist contains multiple entries for \"{{name}}\". ",
+    "en": "Your userlist contains multiple entries for \"{{name}}\". "
+  },
+  {
+    "ns": "common",
+    "key": "Your userlist contains multiple identical \"{{plugin}} after {{reference}}\"",
+    "en": "Your userlist contains multiple identical \"{{plugin}} after {{reference}}\""
+  },
+  {
+    "ns": "common",
+    "key": "Plugins shouldn't exceed mod index {{maxIndex}} for a total of {{count}} ",
+    "en": "Plugins shouldn't exceed mod index {{maxIndex}} for a total of {{count}} "
+  },
+  {
+    "ns": "common",
+    "key": "Blueprint plugin used as master",
+    "en": "Blueprint plugin used as master"
+  },
+  {
+    "ns": "common",
+    "key": "The following enabled plugins declare a Blueprint plugin as a master. ",
+    "en": "The following enabled plugins declare a Blueprint plugin as a master. "
+  },
+  {
+    "ns": "common",
+    "key": "has Blueprint master",
+    "en": "has Blueprint master"
+  },
+  {
+    "ns": "common",
+    "key": "Some of the enabled plugins have dependencies or incompatibilities ",
+    "en": "Some of the enabled plugins have dependencies or incompatibilities "
+  },
+  {
+    "ns": "common",
+    "key": "Blueprint plugin - force-loaded by the game and pinned to the end ",
+    "en": "Blueprint plugin - force-loaded by the game and pinned to the end "
+  },
+  {
+    "ns": "common",
+    "key": "Dummy plugin",
+    "en": "Dummy plugin"
+  },
+  {
+    "ns": "common",
+    "key": "In addition you can have up to 256 medium plugins, and 4096 light plugins.",
+    "en": "In addition you can have up to 256 medium plugins, and 4096 light plugins."
+  },
+  {
+    "ns": "common",
+    "key": "Active",
+    "en": "Active"
+  },
+  {
+    "ns": "common",
+    "key": "  Full: {{ count }} /  {{ limit }}",
+    "en": "  Full: {{ count }} /  {{ limit }}"
+  },
+  {
+    "ns": "common",
+    "key": "Medium: {{ count }} /  256",
+    "en": "Medium: {{ count }} /  256"
+  },
+  {
+    "ns": "common",
+    "key": " Light: {{ count }} / 4096",
+    "en": " Light: {{ count }} / 4096"
+  },
+  {
+    "ns": "common",
+    "key": "LOOT can automatically calculate a load order that satisfies all plugin dependencies and maximises each plugin\\’s ",
+    "en": "LOOT can automatically calculate a load order that satisfies all plugin dependencies and maximises each plugin\\’s "
+  },
+  {
+    "ns": "common",
+    "key": "This plugin can't be an esl since it contains form-ids ",
+    "en": "This plugin can't be an esl since it contains form-ids "
+  },
+  {
+    "ns": "common",
+    "key": "This is a regular plugin that could be turned into a light one ",
+    "en": "This is a regular plugin that could be turned into a light one "
+  },
+  {
+    "ns": "common",
+    "key": "If checked, plugins you add to the game directory outside Vortex ",
+    "en": "If checked, plugins you add to the game directory outside Vortex "
+  },
+  {
+    "ns": "common",
+    "key": "Unable to create save game directory: {{dest}}\\ (Please ensure you have ",
+    "en": "Unable to create save game directory: {{dest}}\\ (Please ensure you have "
+  },
+  {
+    "ns": "common",
+    "key": "For performance reasons only the {{count}} most recent ",
+    "en": "For performance reasons only the {{count}} most recent "
+  },
+  {
+    "ns": "common",
+    "key": "7 Days to Die loads mods in alphabetic order so Vortex prefixes ",
+    "en": "7 Days to Die loads mods in alphabetic order so Vortex prefixes "
+  },
+  {
+    "ns": "common",
+    "key": "The load order file is in a corrupt state or missing. ",
+    "en": "The load order file is in a corrupt state or missing. "
+  },
+  {
+    "ns": "common",
+    "key": "7DTD Settings",
+    "en": "7DTD Settings"
+  },
+  {
+    "ns": "common",
+    "key": "Current User Default Folder",
+    "en": "Current User Default Folder"
+  },
+  {
+    "ns": "common",
+    "key": "Set User Data Folder",
+    "en": "Set User Data Folder"
+  },
+  {
+    "ns": "common",
+    "key": "This will allow you to re-select the User Data Folder (UDF) for 7 Days to Die.",
+    "en": "This will allow you to re-select the User Data Folder (UDF) for 7 Days to Die."
+  },
+  {
+    "ns": "common",
+    "key": "Baldur's Gate 3's modding pattern in most (if not all) cases will require a 3rd ",
+    "en": "Baldur's Gate 3's modding pattern in most (if not all) cases will require a 3rd "
+  },
+  {
+    "ns": "common",
+    "key": "To successfully switch between different game versions/patches please follow these steps:",
+    "en": "To successfully switch between different game versions/patches please follow these steps:"
+  },
+  {
+    "ns": "common",
+    "key": "Purge your mods",
+    "en": "Purge your mods"
+  },
+  {
+    "ns": "common",
+    "key": "Run the game so that the modsettings.lsx file gets reset to the default values",
+    "en": "Run the game so that the modsettings.lsx file gets reset to the default values"
+  },
+  {
+    "ns": "common",
+    "key": "Close the game",
+    "en": "Close the game"
+  },
+  {
+    "ns": "common",
+    "key": "Deploy your mods",
+    "en": "Deploy your mods"
+  },
+  {
+    "ns": "common",
+    "key": "Run the game again - your load order will be maintained",
+    "en": "Run the game again - your load order will be maintained"
+  },
+  {
+    "ns": "common",
+    "key": "Import from Baldur's Gate 3 Mod Manager",
+    "en": "Import from Baldur's Gate 3 Mod Manager"
+  },
+  {
+    "ns": "common",
+    "key": "Vortex can sort your load order based on a BG3MM .json load order file. Any mods that are not installed through Vortex will be ignored.",
+    "en": "Vortex can sort your load order based on a BG3MM .json load order file. Any mods that are not installed through Vortex will be ignored."
+  },
+  {
+    "ns": "common",
+    "key": "Please note that any mods that are not present in the BG3MM load order file will be placed at the bottom of the load order.",
+    "en": "Please note that any mods that are not present in the BG3MM load order file will be placed at the bottom of the load order."
+  },
+  {
+    "ns": "common",
+    "key": "To take full advantage of Vortex's Baldur\\s Gate 3 modding capabilities such as managing the ",
+    "en": "To take full advantage of Vortex's Baldur\\s Gate 3 modding capabilities such as managing the "
+  },
+  {
+    "ns": "common",
+    "key": "The load order file is in a corrupt state. You can try to fix it yourself ",
+    "en": "The load order file is in a corrupt state. You can try to fix it yourself "
+  },
+  {
+    "ns": "common",
+    "key": "Please choose a BG3MM .json load order file to import from",
+    "en": "Please choose a BG3MM .json load order file to import from"
+  },
+  {
+    "ns": "common",
+    "key": "As of Baldur's Gate 3 patch 7, the \"ModFixer\" mod is no longer required. Please feel free to disable it.{{bl}}",
+    "en": "As of Baldur's Gate 3 patch 7, the \"ModFixer\" mod is no longer required. Please feel free to disable it.{{bl}}"
+  },
+  {
+    "ns": "common",
+    "key": "Baldur's Gate 3",
+    "en": "Baldur's Gate 3"
+  },
+  {
+    "ns": "common",
+    "key": "You can adjust the load order for Blade and Sorcery by dragging and dropping ",
+    "en": "You can adjust the load order for Blade and Sorcery by dragging and dropping "
+  },
+  {
+    "ns": "common",
+    "key": "The mods displayed in this page are valid mods, confirmed to be deployed inside the ",
+    "en": "The mods displayed in this page are valid mods, confirmed to be deployed inside the "
+  },
+  {
+    "ns": "common",
+    "key": "If you cannot see your manually added mod in this load order - click refresh and Vortex ",
+    "en": "If you cannot see your manually added mod in this load order - click refresh and Vortex "
+  },
+  {
+    "ns": "common",
+    "key": "The load order file will only be picked up by the game in version 8.4 Beta 5 and above",
+    "en": "The load order file will only be picked up by the game in version 8.4 Beta 5 and above"
+  },
+  {
+    "ns": "common",
+    "key": "The mod you're attempting to install is not compatible with ",
+    "en": "The mod you're attempting to install is not compatible with "
+  },
+  {
+    "ns": "common",
+    "key": "As part of implementing the Load Order system for ",
+    "en": "As part of implementing the Load Order system for "
+  },
+  {
+    "ns": "common",
+    "key": "Vortex has discovered the following unmanaged/external files in the ",
+    "en": "Vortex has discovered the following unmanaged/external files in the "
+  },
+  {
+    "ns": "common",
+    "key": "Please refer to mod descriptions from mod authors to determine the right order. ",
+    "en": "Please refer to mod descriptions from mod authors to determine the right order. "
+  },
+  {
+    "ns": "common",
+    "key": "Please note: if you are happy with your current mod setup, and have not noticed any issues, ",
+    "en": "Please note: if you are happy with your current mod setup, and have not noticed any issues, "
+  },
+  {
+    "ns": "common",
+    "key": "Please note: Vortex had attempted to automatically migrate your mods to the new ",
+    "en": "Please note: Vortex had attempted to automatically migrate your mods to the new "
+  },
+  {
+    "ns": "common",
+    "key": "It was raised to our attention that certain DDDA mods are not being ",
+    "en": "It was raised to our attention that certain DDDA mods are not being "
+  },
+  {
+    "ns": "common",
+    "key": "Below is a preview of the load order for the mods that ",
+    "en": "Below is a preview of the load order for the mods that "
+  },
+  {
+    "ns": "common",
+    "key": "Drag and drop the mods on the left to reorder them. Kingdom Come: Deliverance uses a mod_order.txt file ",
+    "en": "Drag and drop the mods on the left to reorder them. Kingdom Come: Deliverance uses a mod_order.txt file "
+  },
+  {
+    "ns": "common",
+    "key": "Note: Vortex will detect manually added mods as long as these have been added to the mod_order.txt file. ",
+    "en": "Note: Vortex will detect manually added mods as long as these have been added to the mod_order.txt file. "
+  },
+  {
+    "ns": "common",
+    "key": "Kingdom Come: Deliverance Data",
+    "en": "Kingdom Come: Deliverance Data"
+  },
+  {
+    "ns": "common",
+    "key": "If you have multiple mods replacing the same content (e.g. engine ",
+    "en": "If you have multiple mods replacing the same content (e.g. engine "
+  },
+  {
+    "ns": "common",
+    "key": "You're attempting to install what appears to be a ReShade mod, but ",
+    "en": "You're attempting to install what appears to be a ReShade mod, but "
+  },
+  {
+    "ns": "common",
+    "key": "Some Stardew Valley mods require a newer version of SMAPI to function correctly, ",
+    "en": "Some Stardew Valley mods require a newer version of SMAPI to function correctly, "
+  },
+  {
+    "ns": "common",
+    "key": "SMAPI suggests updating this mod to {{update}}. ",
+    "en": "SMAPI suggests updating this mod to {{update}}. "
+  },
+  {
+    "ns": "common",
+    "key": "Stardew Valley",
+    "en": "Stardew Valley"
+  },
+  {
+    "ns": "common",
+    "key": "If checked, when you install a mod for Stardew Valley you may get ",
+    "en": "If checked, when you install a mod for Stardew Valley you may get "
+  },
+  {
+    "ns": "common",
+    "key": "Manage SDV mod configuration files",
+    "en": "Manage SDV mod configuration files"
+  },
+  {
+    "ns": "common",
+    "key": "Vortex by default is configured to attempt to pull-in newly created files (mod configuration json files for example) ",
+    "en": "Vortex by default is configured to attempt to pull-in newly created files (mod configuration json files for example) "
+  },
+  {
+    "ns": "common",
+    "key": "Changes priority assignment restrictions - prefix based is ",
+    "en": "Changes priority assignment restrictions - prefix based is "
+  },
+  {
+    "ns": "common",
+    "key": "This action will set priorities using the deployment rules ",
+    "en": "This action will set priorities using the deployment rules "
+  },
+  {
+    "ns": "common",
+    "key": "Vortex encountered a permissions related error while attempting ",
+    "en": "Vortex encountered a permissions related error while attempting "
+  },
+  {
+    "ns": "common",
+    "key": "Due to a bug, the mod limit patch was not applied correctly. ",
+    "en": "Due to a bug, the mod limit patch was not applied correctly. "
+  },
+  {
+    "ns": "common",
+    "key": "Witcher 3 is restricted to 192 file handles which is quickly reached when ",
+    "en": "Witcher 3 is restricted to 192 file handles which is quickly reached when "
+  },
+  {
+    "ns": "common",
+    "key": "Many Witcher 3 mods add or edit game scripts. When several mods ",
+    "en": "Many Witcher 3 mods add or edit game scripts. When several mods "
+  },
+  {
+    "ns": "common",
+    "key": "Vortex is unable to resolve the Script Merger's location. The tool needs to be downloaded and configured manually. ",
+    "en": "Vortex is unable to resolve the Script Merger's location. The tool needs to be downloaded and configured manually. "
+  },
+  {
+    "ns": "common",
+    "key": "The Witcher 3 game extension executes a series of file merges for UI/menu mods ",
+    "en": "The Witcher 3 game extension executes a series of file merges for UI/menu mods "
+  },
+  {
+    "ns": "common",
+    "key": "Additionally - please remember that any script merges (if applicable) done ",
+    "en": "Additionally - please remember that any script merges (if applicable) done "
+  },
+  {
+    "ns": "common",
+    "key": "You can adjust the load order for The Witcher 3 by dragging and dropping ",
+    "en": "You can adjust the load order for The Witcher 3 by dragging and dropping "
+  },
+  {
+    "ns": "common",
+    "key": "When managing menu mods, mod settings changed inside the game will be detected by Vortex as external changes - that is expected, ",
+    "en": "When managing menu mods, mod settings changed inside the game will be detected by Vortex as external changes - that is expected, "
+  },
+  {
+    "ns": "common",
+    "key": "View source Mod",
+    "en": "View source Mod"
+  },
+  {
+    "ns": "common",
+    "key": "{{completion}}%{{planned}}",
+    "en": "{{completion}}%{{planned}}"
+  },
+  {
+    "ns": "common",
+    "key": "This tool is an easy way of transferring your current ",
+    "en": "This tool is an easy way of transferring your current "
+  },
+  {
+    "ns": "common",
+    "key": "There are unresolved file conflicts. This just means that two or more mods contain the ",
+    "en": "There are unresolved file conflicts. This just means that two or more mods contain the "
+  },
+  {
+    "ns": "common",
+    "key": "[td]{{modName}}[/td]",
+    "en": "[td]{{modName}}[/td]"
+  },
+  {
+    "ns": "common",
+    "key": "The mod you {{enabled}} depends on other mods, do you want to {{enable}} those ",
+    "en": "The mod you {{enabled}} depends on other mods, do you want to {{enable}} those "
+  },
+  {
+    "ns": "common",
+    "key": "This will only disable mods not required by something else but it may disable ",
+    "en": "This will only disable mods not required by something else but it may disable "
+  },
+  {
+    "ns": "common",
+    "key": "You have unresolved file conflicts {{more}}. ",
+    "en": "You have unresolved file conflicts {{more}}. "
+  },
+  {
+    "ns": "common",
+    "key": "Remove file overrides",
+    "en": "Remove file overrides"
+  },
+  {
+    "ns": "common",
+    "key": "You have {{total}} mod(s) with file overrides that are involved in a modtype conflict:\n",
+    "en": "You have {{total}} mod(s) with file overrides that are involved in a modtype conflict:\n"
+  },
+  {
+    "ns": "common",
+    "key": "You are about to disable cross-modtype conflicts - this is not recommended as conflicts across mod types ",
+    "en": "You are about to disable cross-modtype conflicts - this is not recommended as conflicts across mod types "
+  },
+  {
+    "ns": "common",
+    "key": "This change will only be applied once you choose to \"Save\" the change in the main ",
+    "en": "This change will only be applied once you choose to \"Save\" the change in the main "
+  },
+  {
+    "ns": "common",
+    "key": "Vortex can set some of the rules automatically based on the last modified date. ",
+    "en": "Vortex can set some of the rules automatically based on the last modified date. "
+  },
+  {
+    "ns": "common",
+    "key": "You are about to apply a group rule (before/after all), to the following ",
+    "en": "You are about to apply a group rule (before/after all), to the following "
+  },
+  {
+    "ns": "common",
+    "key": "Arrows can be read as \"then\" (A ->- B reads \"A, then B\"), meaning the mod the ",
+    "en": "Arrows can be read as \"then\" (A ->- B reads \"A, then B\"), meaning the mod the "
+  },
+  {
+    "ns": "common",
+    "key": "If there are too many connections you can highlight a single cycle ",
+    "en": "If there are too many connections you can highlight a single cycle "
+  },
+  {
+    "ns": "common",
+    "key": "You can resolve a cycle by either removing or flipping one rule, ",
+    "en": "You can resolve a cycle by either removing or flipping one rule, "
+  },
+  {
+    "ns": "common",
+    "key": "MD5",
+    "en": "MD5"
+  },
+  {
+    "ns": "common",
+    "key": "The mod marked as \"Default\" is the one that will provide the ",
+    "en": "The mod marked as \"Default\" is the one that will provide the "
+  },
+  {
+    "ns": "common",
+    "key": "Please try to minimize the number of overrides you set up here. ",
+    "en": "Please try to minimize the number of overrides you set up here. "
+  },
+  {
+    "ns": "common",
+    "key": "This lists only the files in the selected mod that aren't exclusive ",
+    "en": "This lists only the files in the selected mod that aren't exclusive "
+  },
+  {
+    "ns": "common",
+    "key": "{{ pos }} of {{ total }}",
+    "en": "{{ pos }} of {{ total }}"
+  },
+  {
+    "ns": "common",
+    "key": "Disabling this feature is not recommended. If you have ModType conflicts present in your mods setup, disabling this ",
+    "en": "Disabling this feature is not recommended. If you have ModType conflicts present in your mods setup, disabling this "
+  },
+  {
+    "ns": "common",
+    "key": "You have disabled Cross-ModType conflict detection on your system. Any conflicts across modtypes will ",
+    "en": "You have disabled Cross-ModType conflict detection on your system. Any conflicts across modtypes will "
+  },
+  {
+    "ns": "common",
+    "key": "The {{game}} game extension requires a widely used 3rd party assembly ",
+    "en": "The {{game}} game extension requires a widely used 3rd party assembly "
+  },
+  {
+    "ns": "common",
+    "key": "The \"{{game}}\" game extension requires a widely used 3rd party assembly ",
+    "en": "The \"{{game}}\" game extension requires a widely used 3rd party assembly "
+  },
+  {
+    "ns": "common",
+    "key": "The {{game}} game extension requires a 3rd party mod ",
+    "en": "The {{game}} game extension requires a 3rd party mod "
+  },
+  {
+    "ns": "common",
+    "key": "Once you allow Vortex to browse to GitHub - ",
+    "en": "Once you allow Vortex to browse to GitHub - "
+  },
+  {
+    "ns": "common",
+    "key": "Vortex is unable to read/open one or more of ",
+    "en": "Vortex is unable to read/open one or more of "
+  },
+  {
+    "ns": "common",
+    "key": "Vortex cannot validate NMM's mod/archive files - this usually occurs when ",
+    "en": "Vortex cannot validate NMM's mod/archive files - this usually occurs when "
+  },
+  {
+    "ns": "common",
+    "key": "This is an import tool that allows you to bring your mod archives over from an ",
+    "en": "This is an import tool that allows you to bring your mod archives over from an "
+  },
+  {
+    "ns": "common",
+    "key": "No NMM install found with mods for this game. ",
+    "en": "No NMM install found with mods for this game. "
+  },
+  {
+    "ns": "common",
+    "key": "If you have multiple instances of NMM installed you can select which one ",
+    "en": "If you have multiple instances of NMM installed you can select which one "
+  },
+  {
+    "ns": "common",
+    "key": "NMM and Vortex would interfere with each other if they both ",
+    "en": "NMM and Vortex would interfere with each other if they both "
+  },
+  {
+    "ns": "common",
+    "key": "NMM needs to be closed during the import process and generally ",
+    "en": "NMM needs to be closed during the import process and generally "
+  },
+  {
+    "ns": "common",
+    "key": "\"{{permFile}}\" is access protected. Please ensure your account has ",
+    "en": "\"{{permFile}}\" is access protected. Please ensure your account has "
+  },
+  {
+    "ns": "common",
+    "key": "<manually installed>",
+    "en": "<manually installed>"
+  },
+  {
+    "ns": "common",
+    "key": "[url={{logPathURI}}]{{logPath}}[/url] {{pathSep}} [url={{logURI}}]{{logName}}[/url]<br/>",
+    "en": "[url={{logPathURI}}]{{logPath}}[/url] {{pathSep}} [url={{logURI}}]{{logName}}[/url]<br/>"
+  },
+  {
+    "ns": "common",
+    "key": "Last time you ran the game or Creation kit, one or more script extender ",
+    "en": "Last time you ran the game or Creation kit, one or more script extender "
+  },
+  {
+    "ns": "common",
+    "key": "Your primary tool/starter for this game is a Script Extender, but it appears to be misconfigured. ",
+    "en": "Your primary tool/starter for this game is a Script Extender, but it appears to be misconfigured. "
+  },
+  {
+    "ns": "common",
+    "key": "Vortex could not automatically determine the correct version of {{name}} for your game. \n\n",
+    "en": "Vortex could not automatically determine the correct version of {{name}} for your game. \n\n"
+  },
+  {
+    "ns": "common",
+    "key": "Some mods are incompatible with the current game version, ",
+    "en": "Some mods are incompatible with the current game version, "
+  },
+  {
+    "ns": "common",
+    "key": "The uninstall key for Vortex is missing or corrupted. This may lead to ",
+    "en": "The uninstall key for Vortex is missing or corrupted. This may lead to "
+  },
+  {
+    "ns": "common",
+    "key": "Appearance",
+    "en": "Appearance"
+  },
+  {
+    "ns": "common",
+    "key": "Use legacy Vortex UI",
+    "en": "Use legacy Vortex UI"
+  },
+  {
+    "ns": "common",
+    "key": "Some community themes were designed for the new UI and may not display correctly in the legacy one.",
+    "en": "Some community themes were designed for the new UI and may not display correctly in the legacy one."
+  },
+  {
+    "ns": "common",
+    "key": "Some community themes were designed for the old UI and may not display correctly in the new one.",
+    "en": "Some community themes were designed for the old UI and may not display correctly in the new one."
+  },
+  {
+    "ns": "common",
+    "key": "Makes all system fonts installed on the system available in the Font dropdowns. ",
+    "en": "Makes all system fonts installed on the system available in the Font dropdowns. "
+  },
+  {
+    "ns": "common",
+    "key": "The quick brown fox jumps over the lazy dog",
+    "en": "The quick brown fox jumps over the lazy dog"
+  },
+  {
+    "ns": "common",
+    "key": "Every dashlet (the widgets on the Dashboards) has a height that is a ",
+    "en": "Every dashlet (the widgets on the Dashboards) has a height that is a "
+  },
+  {
+    "ns": "common",
+    "key": "When this is enabled, grays are essentially inverted, so a light gray becomes ",
+    "en": "When this is enabled, grays are essentially inverted, so a light gray becomes "
+  },
+  {
+    "ns": "common",
+    "key": "question",
+    "en": "question"
+  },
+  {
+    "ns": "common",
+    "key": "md5",
+    "en": "md5"
+  },
+  {
+    "ns": "common",
+    "key": "To take full advantage of Vortex's Baldurs Gate 3 modding capabilities such as managing the order in which mods are loaded into the game; Vortex requires a 3rd party tool called LSLib.",
+    "en": "To take full advantage of Vortex's Baldurs Gate 3 modding capabilities such as managing the order in which mods are loaded into the game; Vortex requires a 3rd party tool called LSLib."
+  },
+  {
+    "ns": "common",
+    "key": "rename:",
+    "en": "rename:"
+  },
+  {
+    "ns": "common",
+    "key": "file not found",
+    "en": "file not found"
+  },
+  {
+    "ns": "common",
+    "key": "You are about to disable cross-modtype conflicts - this is not recommended as conflicts across mod types do not adhere to regular deployment rules and are guaranteed to break your modding environment when present.[br][/br][br][/br]If you proceed, and you have such conflicts, the external changes dialog will be raised after each deployment/purge event until you manually remove the conflicting files or disable the mods that are causing the conflict.[br][/br][br][/br]By default, Vortex will now clear any file overrides that were created to resolve cross-modtype conflicts. Please be aware that ALL file overrides will be removed from the mods mentioned below. Uncheck the box if you would rather keep these file overrides and manage them manually.",
+    "en": "You are about to disable cross-modtype conflicts - this is not recommended as conflicts across mod types do not adhere to regular deployment rules and are guaranteed to break your modding environment when present.[br][/br][br][/br]If you proceed, and you have such conflicts, the external changes dialog will be raised after each deployment/purge event until you manually remove the conflicting files or disable the mods that are causing the conflict.[br][/br][br][/br]By default, Vortex will now clear any file overrides that were created to resolve cross-modtype conflicts. Please be aware that ALL file overrides will be removed from the mods mentioned below. Uncheck the box if you would rather keep these file overrides and manage them manually."
+  },
+  {
+    "ns": "common",
+    "key": "You have disabled Cross-ModType conflict detection on your system. Any conflicts across modtypes will have to be resolved manually outside of Vortex.",
+    "en": "You have disabled Cross-ModType conflict detection on your system. Any conflicts across modtypes will have to be resolved manually outside of Vortex."
+  },
+  {
+    "ns": "analytics",
+    "key": "Data & Privacy",
+    "en": "Data & Privacy"
+  },
+  {
+    "ns": "analytics",
+    "key": "Allow this app to collect usage data to improve your experience",
+    "en": "Allow this app to collect usage data to improve your experience"
+  },
+  {
+    "ns": "analytics",
+    "key": "Help us provide you with the best modding experience. With your permission, we will collect analytics information and send it to our team to help us improve quality and performance. This information is sent anonymously and will never be shared with a 3rd party.",
+    "en": "Help us provide you with the best modding experience. With your permission, we will collect analytics information and send it to our team to help us improve quality and performance. This information is sent anonymously and will never be shared with a 3rd party."
+  },
+  {
+    "ns": "analytics",
+    "key": "More about the data we track",
+    "en": "More about the data we track"
+  },
+  {
+    "ns": "analytics",
+    "key": "Privacy Policy",
+    "en": "Privacy Policy"
+  },
+  {
+    "ns": "browser",
+    "key": "Please be aware that Vortex is based on Electron which in turn is based on ",
+    "en": "Please be aware that Vortex is based on Electron which in turn is based on "
+  },
+  {
+    "ns": "browser",
+    "key": "If you have security concerns or don't fully trust this page, please don't ",
+    "en": "If you have security concerns or don't fully trust this page, please don't "
+  },
+  {
+    "ns": "browse_nexus",
+    "key": "The collection \"[b]{{collectionName}}[/b]\" has been classified as adult content because it contains: nudity, sexualisation, extreme violence and gore, or excessive profanity.<br/><br/>",
+    "en": "The collection \"[b]{{collectionName}}[/b]\" has been classified as adult content because it contains: nudity, sexualisation, extreme violence and gore, or excessive profanity.<br/><br/>"
+  },
+  {
+    "ns": "browse_nexus",
+    "key": "Open site preferences",
+    "en": "Open site preferences"
+  },
+  {
+    "ns": "category_management",
+    "key": "Hide Empty",
+    "en": "Hide Empty"
+  },
+  {
+    "ns": "category_management",
+    "key": "Show Empty",
+    "en": "Show Empty"
+  },
+  {
+    "ns": "category_management",
+    "key": "Add Top Level",
+    "en": "Add Top Level"
+  },
+  {
+    "ns": "category_management",
+    "key": "Sort A-Z",
+    "en": "Sort A-Z"
+  },
+  {
+    "ns": "category_management",
+    "key": "Fetch from Nexus Mods",
+    "en": "Fetch from Nexus Mods"
+  },
+  {
+    "ns": "category_management",
+    "key": "Failed to fetch categories from Nexus Mods",
+    "en": "Failed to fetch categories from Nexus Mods"
+  },
+  {
+    "ns": "category_management",
+    "key": "Add category name...",
+    "en": "Add category name..."
+  },
+  {
+    "ns": "category_management",
+    "key": "No categories",
+    "en": "No categories"
+  },
+  {
+    "ns": "category_management",
+    "key": "No categories matching \"{{searchTerm}}\"",
+    "en": "No categories matching \"{{searchTerm}}\""
+  },
+  {
+    "ns": "category_management",
+    "key": "Create Category",
+    "en": "Create Category"
+  },
+  {
+    "ns": "category_management",
+    "key": "Sync with Nexus Mods",
+    "en": "Sync with Nexus Mods"
+  },
+  {
+    "ns": "category_management",
+    "key": "{{ count }} mod(s)",
+    "en": "{{ count }} mod(s)"
+  },
+  {
+    "ns": "category_management",
+    "key": " ({{ sub }} sub-categories with {{ nested }} mod(s))",
+    "en": " ({{ sub }} sub-categories with {{ nested }} mod(s))"
+  },
+  {
+    "ns": "collections",
+    "key": "Mod not found on nexusmods.com: {{modName}} (modId: {{modId}}), ",
+    "en": "Mod not found on nexusmods.com: {{modName}} (modId: {{modId}}), "
+  },
+  {
+    "ns": "collections",
+    "key": "Mod not found on nexusmods.com: {{modName}} ",
+    "en": "Mod not found on nexusmods.com: {{modName}} "
+  },
+  {
+    "ns": "collections",
+    "key": "The collection will include your custom load order rules so that ",
+    "en": "The collection will include your custom load order rules so that "
+  },
+  {
+    "ns": "collections",
+    "key": "Quick Collections create a backup of your mod list for easy import by another PC or mod manager. ",
+    "en": "Quick Collections create a backup of your mod list for easy import by another PC or mod manager. "
+  },
+  {
+    "ns": "collections",
+    "key": "You can also add mods to a collection from the mods screen: ",
+    "en": "You can also add mods to a collection from the mods screen: "
+  },
+  {
+    "ns": "collections",
+    "key": "Mods need to be in an installed state in order to add them to a collection. ",
+    "en": "Mods need to be in an installed state in order to add them to a collection. "
+  },
+  {
+    "ns": "collections",
+    "key": "Download the latest meta information about your installed and owned collections. ",
+    "en": "Download the latest meta information about your installed and owned collections. "
+  },
+  {
+    "ns": "collections",
+    "key": "File overrides can be considered as a type of ignore list. This page will allow you to export file overrides that ",
+    "en": "File overrides can be considered as a type of ignore list. This page will allow you to export file overrides that "
+  },
+  {
+    "ns": "collections",
+    "key": "Please note that these pre-generated file overrides are toggled off by default as Vortex will ",
+    "en": "Please note that these pre-generated file overrides are toggled off by default as Vortex will "
+  },
+  {
+    "ns": "collections",
+    "key": "Any mods enabled below will NOT be deployed on the user's machine. ",
+    "en": "Any mods enabled below will NOT be deployed on the user's machine. "
+  },
+  {
+    "ns": "collections",
+    "key": "Exclude plugin rules",
+    "en": "Exclude plugin rules"
+  },
+  {
+    "ns": "collections",
+    "key": "If enabled, custom LOOT plugin rules and groups will not be included when exporting this collection. ",
+    "en": "If enabled, custom LOOT plugin rules and groups will not be included when exporting this collection. "
+  },
+  {
+    "ns": "collections",
+    "key": "By default the collection will replicate all your custom rules that dictate ",
+    "en": "By default the collection will replicate all your custom rules that dictate "
+  },
+  {
+    "ns": "collections",
+    "key": "If you disable rules here your collection may produce unresolved file conflicts ",
+    "en": "If you disable rules here your collection may produce unresolved file conflicts "
+  },
+  {
+    "ns": "collections",
+    "key": "<No Category>",
+    "en": "<No Category>"
+  },
+  {
+    "ns": "collections",
+    "key": "Optional",
+    "en": "Optional"
+  },
+  {
+    "ns": "collections",
+    "key": "N/A",
+    "en": "N/A"
+  },
+  {
+    "ns": "collections",
+    "key": "Has Instructions",
+    "en": "Has Instructions"
+  },
+  {
+    "ns": "collections",
+    "key": "<No Instructions>",
+    "en": "<No Instructions>"
+  },
+  {
+    "ns": "collections",
+    "key": "Has Binary Patching",
+    "en": "Has Binary Patching"
+  },
+  {
+    "ns": "collections",
+    "key": "<No Binary Patching>",
+    "en": "<No Binary Patching>"
+  },
+  {
+    "ns": "collections",
+    "key": "Is it a collection when there's nothing in it?",
+    "en": "Is it a collection when there's nothing in it?"
+  },
+  {
+    "ns": "collections",
+    "key": "Version: Choose whether the collection will install exactly the version you ",
+    "en": "Version: Choose whether the collection will install exactly the version you "
+  },
+  {
+    "ns": "collections",
+    "key": "Required: Select whether the user has to install the mod or whether it's an optional recommendation. Optional mods are presented last and the user is given the choice to install them or not.",
+    "en": "Required: Select whether the user has to install the mod or whether it's an optional recommendation. Optional mods are presented last and the user is given the choice to install them or not."
+  },
+  {
+    "ns": "collections",
+    "key": "Install: \"Fresh Install\" will install the mod as Vortex would usually do, ",
+    "en": "Install: \"Fresh Install\" will install the mod as Vortex would usually do, "
+  },
+  {
+    "ns": "collections",
+    "key": "Source: Decides how the user downloads the mod. \"Nexus Mods\" is easiest, use the ",
+    "en": "Source: Decides how the user downloads the mod. \"Nexus Mods\" is easiest, use the "
+  },
+  {
+    "ns": "collections",
+    "key": "When using \"Nexus Mods\" as a source, both the mod ID and file ID have to be ",
+    "en": "When using \"Nexus Mods\" as a source, both the mod ID and file ID have to be "
+  },
+  {
+    "ns": "collections",
+    "key": "\"Replicate\" install can only be used when installing ",
+    "en": "\"Replicate\" install can only be used when installing "
+  },
+  {
+    "ns": "collections",
+    "key": "Installing with \"Same Installer Options\" may break if the mod gets updated. ",
+    "en": "Installing with \"Same Installer Options\" may break if the mod gets updated. "
+  },
+  {
+    "ns": "collections",
+    "key": "If you bundle a mod, the user gets exactly the version of the mod you ",
+    "en": "If you bundle a mod, the user gets exactly the version of the mod you "
+  },
+  {
+    "ns": "collections",
+    "key": "The option to \"prefer exact\" version only works with sources that ",
+    "en": "The option to \"prefer exact\" version only works with sources that "
+  },
+  {
+    "ns": "collections",
+    "key": "The sources \"Browse a website\" and \"Direct download\" require that ",
+    "en": "The sources \"Browse a website\" and \"Direct download\" require that "
+  },
+  {
+    "ns": "collections",
+    "key": "Local edits can only be applied if the user gets the exact same files ",
+    "en": "Local edits can only be applied if the user gets the exact same files "
+  },
+  {
+    "ns": "collections",
+    "key": "The option to \"bundle\" already bundles the edited files, storing ",
+    "en": "The option to \"bundle\" already bundles the edited files, storing "
+  },
+  {
+    "ns": "collections",
+    "key": "\"Replicate\" depends on files being unchanged ",
+    "en": "\"Replicate\" depends on files being unchanged "
+  },
+  {
+    "ns": "collections",
+    "key": "Mods are copyright protected. Only bundle mods if you are sure you ",
+    "en": "Mods are copyright protected. Only bundle mods if you are sure you "
+  },
+  {
+    "ns": "collections",
+    "key": "Please verify you are allowed to do direct downloads on this site",
+    "en": "Please verify you are allowed to do direct downloads on this site"
+  },
+  {
+    "ns": "collections",
+    "key": "Most websites don't allow direct downloads. Please make sure you are ",
+    "en": "Most websites don't allow direct downloads. Please make sure you are "
+  },
+  {
+    "ns": "collections",
+    "key": "The installer choices for this mod haven't been saved. ",
+    "en": "The installer choices for this mod haven't been saved. "
+  },
+  {
+    "ns": "collections",
+    "key": "The mod has no version number set. This isn't strictly necessary; we use the ",
+    "en": "The mod has no version number set. This isn't strictly necessary; we use the "
+  },
+  {
+    "ns": "collections",
+    "key": "Premium",
+    "en": "Premium"
+  },
+  {
+    "ns": "collections",
+    "key": "Auto-download collections at max speed",
+    "en": "Auto-download collections at max speed"
+  },
+  {
+    "ns": "collections",
+    "key": "Unlock max download speeds",
+    "en": "Unlock max download speeds"
+  },
+  {
+    "ns": "collections",
+    "key": "You have been blocked by the curator.",
+    "en": "You have been blocked by the curator."
+  },
+  {
+    "ns": "collections",
+    "key": "This collection was created using a different version of the game than you have and is the most common reason why a collection doesn't work correctly.\n\n",
+    "en": "This collection was created using a different version of the game than you have and is the most common reason why a collection doesn't work correctly.\n\n"
+  },
+  {
+    "ns": "collections",
+    "key": "{{count}} mod status(es) realigned",
+    "en": "{{count}} mod status(es) realigned"
+  },
+  {
+    "ns": "collections",
+    "key": "{{pos}} of {{count}}",
+    "en": "{{pos}} of {{count}}"
+  },
+  {
+    "ns": "collections",
+    "key": "Draft",
+    "en": "Draft"
+  },
+  {
+    "ns": "collections",
+    "key": "{{rating}}%",
+    "en": "{{rating}}%"
+  },
+  {
+    "ns": "collections",
+    "key": "This screen lets you set up tweaks for the game ini file that will be applied ",
+    "en": "This screen lets you set up tweaks for the game ini file that will be applied "
+  },
+  {
+    "ns": "collections",
+    "key": "Users can toggle these ini tweaks individually so you may want to set up ",
+    "en": "Users can toggle these ini tweaks individually so you may want to set up "
+  },
+  {
+    "ns": "collections",
+    "key": "\"Edit\" allows you to input the ini tweak you want to ",
+    "en": "\"Edit\" allows you to input the ini tweak you want to "
+  },
+  {
+    "ns": "collections",
+    "key": "To assist in the testing of INI configuration application - any enabled INI modification ",
+    "en": "To assist in the testing of INI configuration application - any enabled INI modification "
+  },
+  {
+    "ns": "collections",
+    "key": "To disable/enable an INI tweak, simply click on the button itself (in the status column). ",
+    "en": "To disable/enable an INI tweak, simply click on the button itself (in the status column). "
+  },
+  {
+    "ns": "collections",
+    "key": "Collection installation incomplete",
+    "en": "Collection installation incomplete"
+  },
+  {
+    "ns": "collections",
+    "key": "{{count}} mod could not be installed",
+    "en": "{{count}} mod could not be installed"
+  },
+  {
+    "ns": "collections",
+    "key": "Some required mods failed to install (for example after a network interruption), ",
+    "en": "Some required mods failed to install (for example after a network interruption), "
+  },
+  {
+    "ns": "collections",
+    "key": "This collection has {{count}} optional mods which are not required to ",
+    "en": "This collection has {{count}} optional mods which are not required to "
+  },
+  {
+    "ns": "collections",
+    "key": "You now have the whole collection installed, you can start editing ",
+    "en": "You now have the whole collection installed, you can start editing "
+  },
+  {
+    "ns": "collections",
+    "key": "{{count}} optional mod could not be installed",
+    "en": "{{count}} optional mod could not be installed"
+  },
+  {
+    "ns": "collections",
+    "key": "Finalizing installation - deploying mods and applying collection rules...",
+    "en": "Finalizing installation - deploying mods and applying collection rules..."
+  },
+  {
+    "ns": "collections",
+    "key": "View failed mods",
+    "en": "View failed mods"
+  },
+  {
+    "ns": "collections",
+    "key": "Skip plugin rules",
+    "en": "Skip plugin rules"
+  },
+  {
+    "ns": "collections",
+    "key": "If enabled, custom LOOT plugin rules and groups included in this collection ",
+    "en": "If enabled, custom LOOT plugin rules and groups included in this collection "
+  },
+  {
+    "ns": "collections",
+    "key": "Obviously users will need to have these tools installed. If they aren't ",
+    "en": "Obviously users will need to have these tools installed. If they aren't "
+  },
+  {
+    "ns": "diagnostics_files",
+    "key": "View Logs",
+    "en": "View Logs"
+  },
+  {
+    "ns": "diagnostics_files",
+    "key": "Open Log Folder",
+    "en": "Open Log Folder"
+  },
+  {
+    "ns": "download_management",
+    "key": "This site delivers the file through your browser. Start the download on the page and ",
+    "en": "This site delivers the file through your browser. Start the download on the page and "
+  },
+  {
+    "ns": "download_management",
+    "key": "Set the number of parallel download requests to the server\n\n",
+    "en": "Set the number of parallel download requests to the server\n\n"
+  },
+  {
+    "ns": "download_management",
+    "key": "Unlock max download speeds",
+    "en": "Unlock max download speeds"
+  },
+  {
+    "ns": "download_management",
+    "key": "Regular users are restricted to 1 download thread - ",
+    "en": "Regular users are restricted to 1 download thread - "
+  },
+  {
+    "ns": "download_management",
+    "key": "The downloads folder has been copied [b]successfully[/b] to ",
+    "en": "The downloads folder has been copied [b]successfully[/b] to "
+  },
+  {
+    "ns": "download_management",
+    "key": "Vortex has encountered a corrupted and unreadable file/directory ",
+    "en": "Vortex has encountered a corrupted and unreadable file/directory "
+  },
+  {
+    "ns": "extension_manager",
+    "key": "by",
+    "en": "by"
+  },
+  {
+    "ns": "extension_manager",
+    "key": "Some optional extensions for \"{{game}}\" are missing.[br][/br][br][/br]",
+    "en": "Some optional extensions for \"{{game}}\" are missing.[br][/br][br][/br]"
+  },
+  {
+    "ns": "extension_manager",
+    "key": "Failed to load: {{message}}",
+    "en": "Failed to load: {{message}}"
+  },
+  {
+    "ns": "extension_manager",
+    "key": "Depends on '{{dependencyId}}' version '{{version}}'",
+    "en": "Depends on '{{dependencyId}}' version '{{version}}'"
+  },
+  {
+    "ns": "extension_manager",
+    "key": "Depends on '{{dependencyId}}'",
+    "en": "Depends on '{{dependencyId}}'"
+  },
+  {
+    "ns": "extension_manager",
+    "key": "Unknown error '{{id}}'",
+    "en": "Unknown error '{{id}}'"
+  },
+  {
+    "ns": "file_based_loadorder",
+    "key": "This is a snapshot of the load order information that ",
+    "en": "This is a snapshot of the load order information that "
+  },
+  {
+    "ns": "file_based_loadorder",
+    "key": " If you believe a load order entry is missing, please ensure the ",
+    "en": " If you believe a load order entry is missing, please ensure the "
+  },
+  {
+    "ns": "file_based_loadorder",
+    "key": " Note that the game you've created this collection for relies on a load order ",
+    "en": " Note that the game you've created this collection for relies on a load order "
+  },
+  {
+    "ns": "firststeps_dashlet",
+    "key": "<Invalid Drive>",
+    "en": "<Invalid Drive>"
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "Display as",
+    "en": "Display as"
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "Show hidden items",
+    "en": "Show hidden items"
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "Reset to default",
+    "en": "Reset to default"
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "It may not be supported yet but adding it yourself may be easier than you think.",
+    "en": "It may not be supported yet but adding it yourself may be easier than you think."
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "Learn how to make an extension",
+    "en": "Learn how to make an extension"
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "The currently identified game store for your selected game directory is: \"{{gameStore}}\".[br][/br][br][/br]",
+    "en": "The currently identified game store for your selected game directory is: \"{{gameStore}}\".[br][/br][br][/br]"
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "The game store has changed from \"{{oldStore}}\" to \"{{newStore}}\".\n\n",
+    "en": "The game store has changed from \"{{oldStore}}\" to \"{{newStore}}\".\n\n"
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "Game store changed - mod loaders and tools ",
+    "en": "Game store changed - mod loaders and tools "
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "This directory doesn't appear to contain the game.\n",
+    "en": "This directory doesn't appear to contain the game.\n"
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "Copied mod type id to clipboard",
+    "en": "Copied mod type id to clipboard"
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "Vortex attempted to manage the game and has ",
+    "en": "Vortex attempted to manage the game and has "
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "Manage games to get started.",
+    "en": "Manage games to get started."
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "Search games...",
+    "en": "Search games..."
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "Try adjusting your search terms.",
+    "en": "Try adjusting your search terms."
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "No games found",
+    "en": "No games found"
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "Unmanaged",
+    "en": "Unmanaged"
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "ID:",
+    "en": "ID:"
+  },
+  {
+    "ns": "gamemode_management",
+    "key": "Copy ID to clipboard",
+    "en": "Copy ID to clipboard"
+  },
+  {
+    "ns": "hardlink_activator",
+    "key": "File Systems store files in two parts: \n",
+    "en": "File Systems store files in two parts: \n"
+  },
+  {
+    "ns": "hardlink_activator",
+    "key": "To resolve this problem, the current user account needs to be given ",
+    "en": "To resolve this problem, the current user account needs to be given "
+  },
+  {
+    "ns": "hardlink_activator",
+    "key": "Please go to Settings->Mods and set the mod staging folder to be on ",
+    "en": "Please go to Settings->Mods and set the mod staging folder to be on "
+  },
+  {
+    "ns": "health_check",
+    "key": "common:::beta",
+    "en": "common:::beta"
+  },
+  {
+    "ns": "health_check",
+    "key": "common:::thanks_for_your_feedback",
+    "en": "common:::thanks_for_your_feedback"
+  },
+  {
+    "ns": "health_check",
+    "key": "common:::helpful",
+    "en": "common:::helpful"
+  },
+  {
+    "ns": "health_check",
+    "key": "common:::not_helpful",
+    "en": "common:::not_helpful"
+  },
+  {
+    "ns": "health_check",
+    "key": "common:::unhide",
+    "en": "common:::unhide"
+  },
+  {
+    "ns": "health_check",
+    "key": "common:::hide",
+    "en": "common:::hide"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::feedback_modal::title",
+    "en": "detail::feedback_modal::title"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::feedback_modal::description",
+    "en": "detail::feedback_modal::description"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::feedback_modal::buttons::cancel",
+    "en": "detail::feedback_modal::buttons::cancel"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::feedback_modal::buttons::confirm",
+    "en": "detail::feedback_modal::buttons::confirm"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::install_via_mod_page",
+    "en": "detail::item::install_via_mod_page"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::downloading",
+    "en": "detail::item::downloading"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::install_one_click",
+    "en": "detail::item::install_one_click"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::view_in_mods",
+    "en": "detail::item::view_in_mods"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::enable_this_version",
+    "en": "detail::item::enable_this_version"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::item::or_join",
+    "en": "listing::item::or_join"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::item::more_count",
+    "en": "listing::item::more_count"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::install_one_click",
+    "en": "listing::install_one_click"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::pick_mod_install",
+    "en": "listing::pick_mod_install"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::install_uninstalled",
+    "en": "listing::install_uninstalled"
+  },
+  {
+    "ns": "health_check",
+    "key": "actions::install_all",
+    "en": "actions::install_all"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::installing",
+    "en": "detail::item::installing"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::install_uninstalled",
+    "en": "detail::item::install_uninstalled"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::required_version",
+    "en": "detail::item::required_version"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::current_version",
+    "en": "detail::item::current_version"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::title",
+    "en": "detail::item::title"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::may_require_file",
+    "en": "detail::item::may_require_file"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::author_note",
+    "en": "detail::item::author_note"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::open_external_mod_page",
+    "en": "detail::item::open_external_mod_page"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::external_hosted_note",
+    "en": "detail::item::external_hosted_note"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::after_installing",
+    "en": "detail::item::after_installing"
+  },
+  {
+    "ns": "health_check",
+    "key": "detail::item::confirm_install",
+    "en": "detail::item::confirm_install"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::external_mod_install",
+    "en": "listing::external_mod_install"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::item::description",
+    "en": "listing::item::description"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::item::title",
+    "en": "listing::item::title"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium::modal::benefits_title",
+    "en": "premium::modal::benefits_title"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium::modal::benefits::downloads",
+    "en": "premium::modal::benefits::downloads"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium::modal::benefits::collections",
+    "en": "premium::modal::benefits::collections"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium::modal::benefits::speed",
+    "en": "premium::modal::benefits::speed"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium::modal::benefits::ad_free",
+    "en": "premium::modal::benefits::ad_free"
+  },
+  {
+    "ns": "health_check",
+    "key": "premium::modal::buttons::primary",
+    "en": "premium::modal::buttons::primary"
+  },
+  {
+    "ns": "health_check",
+    "key": "common:::back",
+    "en": "common:::back"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::last_updated",
+    "en": "listing::last_updated"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::no_results_active::message",
+    "en": "listing::no_results_active::message"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::no_results_active::title",
+    "en": "listing::no_results_active::title"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::title",
+    "en": "listing::title"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::subtitle",
+    "en": "listing::subtitle"
+  },
+  {
+    "ns": "health_check",
+    "key": "common:::refresh",
+    "en": "common:::refresh"
+  },
+  {
+    "ns": "health_check",
+    "key": "common:::settings",
+    "en": "common:::settings"
+  },
+  {
+    "ns": "health_check",
+    "key": "common:::active",
+    "en": "common:::active"
+  },
+  {
+    "ns": "health_check",
+    "key": "common:::hidden",
+    "en": "common:::hidden"
+  },
+  {
+    "ns": "health_check",
+    "key": "common:::hide_all",
+    "en": "common:::hide_all"
+  },
+  {
+    "ns": "health_check",
+    "key": "common:::unhide_all",
+    "en": "common:::unhide_all"
+  },
+  {
+    "ns": "health_check",
+    "key": "listing::no_results_hidden::title",
+    "en": "listing::no_results_hidden::title"
+  },
+  {
+    "ns": "health_check",
+    "key": "settings::title",
+    "en": "settings::title"
+  },
+  {
+    "ns": "health_check",
+    "key": "settings::description",
+    "en": "settings::description"
+  },
+  {
+    "ns": "health_check",
+    "key": "settings::mod_requirements",
+    "en": "settings::mod_requirements"
+  },
+  {
+    "ns": "health_check",
+    "key": "settings::file_requirements",
+    "en": "settings::file_requirements"
+  },
+  {
+    "ns": "history_management",
+    "key": "Please note that this is not \"Undo\"! This screen allows you to revert ",
+    "en": "Please note that this is not \"Undo\"! This screen allows you to revert "
+  },
+  {
+    "ns": "installer_fomod_ipc",
+    "key": "Continue Installation",
+    "en": "Continue Installation"
+  },
+  {
+    "ns": "installer_fomod_ipc",
+    "key": "Installation Timeout",
+    "en": "Installation Timeout"
+  },
+  {
+    "ns": "installer_fomod_ipc",
+    "key": "The installation of mod \"{{ modName }}\" is taking longer than expected.[br][/br][br][/br]",
+    "en": "The installation of mod \"{{ modName }}\" is taking longer than expected.[br][/br][br][/br]"
+  },
+  {
+    "ns": "installer_fomod_native",
+    "key": "Error reading file content",
+    "en": "Error reading file content"
+  },
+  {
+    "ns": "installer_fomod_native",
+    "key": "Error reading directory file list",
+    "en": "Error reading directory file list"
+  },
+  {
+    "ns": "installer_fomod_native",
+    "key": "Error reading directory list",
+    "en": "Error reading directory list"
+  },
+  {
+    "ns": "mod_load_order",
+    "key": "This is a snapshot of the load order information that ",
+    "en": "This is a snapshot of the load order information that "
+  },
+  {
+    "ns": "mod_load_order",
+    "key": " If you believe a load order entry is missing, please ensure the ",
+    "en": " If you believe a load order entry is missing, please ensure the "
+  },
+  {
+    "ns": "mod_load_order",
+    "key": " Note that some games will require the mods to be enabled or deployed ",
+    "en": " Note that some games will require the mods to be enabled or deployed "
+  },
+  {
+    "ns": "mod_management",
+    "key": "Some of the enabled mods either contain no files or all files ",
+    "en": "Some of the enabled mods either contain no files or all files "
+  },
+  {
+    "ns": "mod_management",
+    "key": "Deployment method \"{{method}}\" does not support ",
+    "en": "Deployment method \"{{method}}\" does not support "
+  },
+  {
+    "ns": "mod_management",
+    "key": "Source website",
+    "en": "Source website"
+  },
+  {
+    "ns": "mod_management",
+    "key": "URL this mod can be downloaded from",
+    "en": "URL this mod can be downloaded from"
+  },
+  {
+    "ns": "mod_management",
+    "key": "Name cannot contain path separators or any of these characters: / \\ : * ? \" < > |",
+    "en": "Name cannot contain path separators or any of these characters: / \\ : * ? \" < > |"
+  },
+  {
+    "ns": "mod_management",
+    "key": "Cancel installation",
+    "en": "Cancel installation"
+  },
+  {
+    "ns": "mod_management",
+    "key": "Install anyway (unsafe)",
+    "en": "Install anyway (unsafe)"
+  },
+  {
+    "ns": "mod_management",
+    "key": "Install anyway (unsafe). Don't ask again for the current session",
+    "en": "Install anyway (unsafe). Don't ask again for the current session"
+  },
+  {
+    "ns": "mod_management",
+    "key": "Unsafe Mod Detected",
+    "en": "Unsafe Mod Detected"
+  },
+  {
+    "ns": "mod_management",
+    "key": "\"{{modName}}\" contains C# scripts that can run code on your computer.[br][/br][br][/br]",
+    "en": "\"{{modName}}\" contains C# scripts that can run code on your computer.[br][/br][br][/br]"
+  },
+  {
+    "ns": "mod_management",
+    "key": "Encountered errors extracting this archive. Please verify this ",
+    "en": "Encountered errors extracting this archive. Please verify this "
+  },
+  {
+    "ns": "mod_management",
+    "key": "Pre-populate installer options from existing mod",
+    "en": "Pre-populate installer options from existing mod"
+  },
+  {
+    "ns": "mod_management",
+    "key": "The installer in \"{{name}}\" tried to install files that were ",
+    "en": "The installer in \"{{name}}\" tried to install files that were "
+  },
+  {
+    "ns": "mod_management",
+    "key": "{{count}} files were not correctly deployed (see log for details).\n",
+    "en": "{{count}} files were not correctly deployed (see log for details).\n"
+  },
+  {
+    "ns": "mod_management",
+    "key": "Mod deployment {{more}} is pending.[br][/br]",
+    "en": "Mod deployment {{more}} is pending.[br][/br]"
+  },
+  {
+    "ns": "mod_management",
+    "key": "When you install a mod through Vortex it is stored in a separate directory and has ",
+    "en": "When you install a mod through Vortex it is stored in a separate directory and has "
+  },
+  {
+    "ns": "mod_management",
+    "key": "A dependency rule can accept multiple versions of the same mod. In that case any ",
+    "en": "A dependency rule can accept multiple versions of the same mod. In that case any "
+  },
+  {
+    "ns": "mod_management",
+    "key": "To be able to match multiple versions of the same file we need a way to identify a set ",
+    "en": "To be able to match multiple versions of the same file we need a way to identify a set "
+  },
+  {
+    "ns": "mod_management",
+    "key": "Version of the mod. A warning here means that the mod doesn't follow the recognized ",
+    "en": "Version of the mod. A warning here means that the mod doesn't follow the recognized "
+  },
+  {
+    "ns": "mod_management",
+    "key": "The file name of the archive which was used to install this mod. If this field is ",
+    "en": "The file name of the archive which was used to install this mod. If this field is "
+  },
+  {
+    "ns": "mod_management",
+    "key": "If you have multiple copies of the same mod installed ",
+    "en": "If you have multiple copies of the same mod installed "
+  },
+  {
+    "ns": "mod_management",
+    "key": "The \"Source\" specifies where you got the mod. That source will be consulted for certain ",
+    "en": "The \"Source\" specifies where you got the mod. That source will be consulted for certain "
+  },
+  {
+    "ns": "mod_management",
+    "key": "The downloads folder holds all mod archives you have downloaded with Vortex. It is shared across all ",
+    "en": "The downloads folder holds all mod archives you have downloaded with Vortex. It is shared across all "
+  },
+  {
+    "ns": "mod_management",
+    "key": "Vortex uses default paths to store mods you download and install.\n",
+    "en": "Vortex uses default paths to store mods you download and install.\n"
+  },
+  {
+    "ns": "mod_management",
+    "key": "A file conflict happens every time two mods contain the same file so one mod has to overwrite the other. ",
+    "en": "A file conflict happens every time two mods contain the same file so one mod has to overwrite the other. "
+  },
+  {
+    "ns": "mod_management",
+    "key": "IMPORTANT: This game was modded by another instance of Vortex.\n\n",
+    "en": "IMPORTANT: This game was modded by another instance of Vortex.\n\n"
+  },
+  {
+    "ns": "mod_management",
+    "key": "Mods have been changed on disk. This means that mods that were managed by Vortex ",
+    "en": "Mods have been changed on disk. This means that mods that were managed by Vortex "
+  },
+  {
+    "ns": "mod_management",
+    "key": "If you continue now, Vortex will lose all meta information about the deleted ",
+    "en": "If you continue now, Vortex will lose all meta information about the deleted "
+  },
+  {
+    "ns": "mod_management",
+    "key": "Filter...",
+    "en": "Filter..."
+  },
+  {
+    "ns": "mod_management",
+    "key": "Vortex may have pre-selected some of the mods for you ",
+    "en": "Vortex may have pre-selected some of the mods for you "
+  },
+  {
+    "ns": "mod_management",
+    "key": "Mod files were changed outside Vortex. ",
+    "en": "Mod files were changed outside Vortex. "
+  },
+  {
+    "ns": "mod_management",
+    "key": "These mods were modified",
+    "en": "These mods were modified"
+  },
+  {
+    "ns": "mod_management",
+    "key": "File content modified ",
+    "en": "File content modified "
+  },
+  {
+    "ns": "mod_management",
+    "key": "Source files were deleted ",
+    "en": "Source files were deleted "
+  },
+  {
+    "ns": "mod_management",
+    "key": "Links were deleted ",
+    "en": "Links were deleted "
+  },
+  {
+    "ns": "mod_management",
+    "key": "Usually, when you first manage a game, the staging folder is initially set to be in ",
+    "en": "Usually, when you first manage a game, the staging folder is initially set to be in "
+  },
+  {
+    "ns": "mod_management",
+    "key": "The mods staging folder has been copied [b]successfully[/b] to ",
+    "en": "The mods staging folder has been copied [b]successfully[/b] to "
+  },
+  {
+    "ns": "mod_management",
+    "key": "Vortex has encountered a corrupted and unreadable file/directory ",
+    "en": "Vortex has encountered a corrupted and unreadable file/directory "
+  },
+  {
+    "ns": "mod_management",
+    "key": "This mod has no source assigned. The source tells Vortex where the mod ",
+    "en": "This mod has no source assigned. The source tells Vortex where the mod "
+  },
+  {
+    "ns": "mod_management",
+    "key": "This mod is missing identification information. Without this some ",
+    "en": "This mod is missing identification information. Without this some "
+  },
+  {
+    "ns": "mod_management",
+    "key": "Mod should be disabled or downgraded because this version has been ",
+    "en": "Mod should be disabled or downgraded because this version has been "
+  },
+  {
+    "ns": "mod_management",
+    "key": "By default Vortex will only remove empty directories during deployment ",
+    "en": "By default Vortex will only remove empty directories during deployment "
+  },
+  {
+    "ns": "move_activator",
+    "key": "This deployment method doesn't use links but actually moves files to the destination ",
+    "en": "This deployment method doesn't use links but actually moves files to the destination "
+  },
+  {
+    "ns": "move_activator",
+    "key": "To resolve this problem, the current user account needs to ",
+    "en": "To resolve this problem, the current user account needs to "
+  },
+  {
+    "ns": "move_activator",
+    "key": "Please go to Settings->Mods and set the mod staging folder to be on ",
+    "en": "Please go to Settings->Mods and set the mod staging folder to be on "
+  },
+  {
+    "ns": "news_dashlet",
+    "key": "*crickets chirp*",
+    "en": "*crickets chirp*"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Nexus Mods IDs",
+    "en": "Nexus Mods IDs"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Nexus Collection ID",
+    "en": "Nexus Collection ID"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "If you've downloaded this mod from a different game section than you're managing, ",
+    "en": "If you've downloaded this mod from a different game section than you're managing, "
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Unlock max download speeds",
+    "en": "Unlock max download speeds"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Chrome requires a change to a configuration file to allow an external program to handle ",
+    "en": "Chrome requires a change to a configuration file to allow an external program to handle "
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "The version of this mod (\"{{modName}}\") is \"{{version}}\". Is this correct?[br][/br][br][/br]",
+    "en": "The version of this mod (\"{{modName}}\") is \"{{version}}\". Is this correct?[br][/br][br][/br]"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Tracked on Nexus",
+    "en": "Tracked on Nexus"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "The operation completed successfully, but the file could not be processed. ",
+    "en": "The operation completed successfully, but the file could not be processed. "
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "The link was not created for this account ({{ userName }}). You have to be logged ",
+    "en": "The link was not created for this account ({{ userName }}). You have to be logged "
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Log In using your Nexus Mods account or register a new account ",
+    "en": "Log In using your Nexus Mods account or register a new account "
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Premium",
+    "en": "Premium"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "You have been blocked by the curator.",
+    "en": "You have been blocked by the curator."
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "N/A",
+    "en": "N/A"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Download mod",
+    "en": "Download mod"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Cancel install",
+    "en": "Cancel install"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Skip mod",
+    "en": "Skip mod"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Vortex should have opened the following url in your default browser. ",
+    "en": "Vortex should have opened the following url in your default browser. "
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Download manually",
+    "en": "Download manually"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Auto-download all",
+    "en": "Auto-download all"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "A hash can be calculated from any mod archive on disk and we can ",
+    "en": "A hash can be calculated from any mod archive on disk and we can "
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "The mod id identifies a mod page on nexus mods. It helps us find ",
+    "en": "The mod id identifies a mod page on nexus mods. It helps us find "
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "The file id identifies a specific file. We need this to check for ",
+    "en": "The file id identifies a specific file. We need this to check for "
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Handle Mod Manager Download buttons on",
+    "en": "Handle Mod Manager Download buttons on"
+  },
+  {
+    "ns": "nexus_integration",
+    "key": "Fix Nexus Mods links in Chrome ",
+    "en": "Fix Nexus Mods links in Chrome "
+  },
+  {
+    "ns": "null_activator",
+    "key": "This deployment method does nothing during deployment (although extensions may still ",
+    "en": "This deployment method does nothing during deployment (although extensions may still "
+  },
+  {
+    "ns": "onboarding_dashlet",
+    "key": "Playing this video will store cookies on your device",
+    "en": "Playing this video will store cookies on your device"
+  },
+  {
+    "ns": "profile_management",
+    "key": "Profiles allow you to have multiple mod set-ups for a game at once and quickly ",
+    "en": "Profiles allow you to have multiple mod set-ups for a game at once and quickly "
+  },
+  {
+    "ns": "profile_management",
+    "key": "Profile name must be at least {{num}} characters",
+    "en": "Profile name must be at least {{num}} characters"
+  },
+  {
+    "ns": "recovery",
+    "key": "Vortex stores application settings as well as mod meta data and a lot ",
+    "en": "Vortex stores application settings as well as mod meta data and a lot "
+  },
+  {
+    "ns": "recovery",
+    "key": "You can have up to 3 backups: One is automatically created whenever Vortex ",
+    "en": "You can have up to 3 backups: One is automatically created whenever Vortex "
+  },
+  {
+    "ns": "settings_application",
+    "key": "By default, every user account on your system has its own \"instance\" ",
+    "en": "By default, every user account on your system has its own \"instance\" "
+  },
+  {
+    "ns": "settings_interface",
+    "key": "Disabling GPU acceleration will make the Vortex UI significantly less ",
+    "en": "Disabling GPU acceleration will make the Vortex UI significantly less "
+  },
+  {
+    "ns": "settings_interface",
+    "key": "Please be aware that toggling this only disables the interface for profiles, ",
+    "en": "Please be aware that toggling this only disables the interface for profiles, "
+  },
+  {
+    "ns": "settings_interface",
+    "key": "In advanced mode Vortex will show a couple of features ",
+    "en": "In advanced mode Vortex will show a couple of features "
+  },
+  {
+    "ns": "settings_interface",
+    "key": "Categories are maintained as a tree, so for example the Category \"Audio\" ",
+    "en": "Categories are maintained as a tree, so for example the Category \"Audio\" "
+  },
+  {
+    "ns": "settings_metaserver",
+    "key": "A meta server provides additional information about mods, giving you ",
+    "en": "A meta server provides additional information about mods, giving you "
+  },
+  {
+    "ns": "starter_dashlet",
+    "key": "The primary tool for {{game}} is no longer available.",
+    "en": "The primary tool for {{game}} is no longer available."
+  },
+  {
+    "ns": "starter_dashlet",
+    "key": "Use these options if you don't want to leave the Vortex window ",
+    "en": "Use these options if you don't want to leave the Vortex window "
+  },
+  {
+    "ns": "starter_dashlet",
+    "key": "If (and only if!) a tool is written as a console ",
+    "en": "If (and only if!) a tool is written as a console "
+  },
+  {
+    "ns": "starter_dashlet",
+    "key": "Run the tool as a detached process (default). When you disable this ",
+    "en": "Run the tool as a detached process (default). When you disable this "
+  },
+  {
+    "ns": "sticky_mods",
+    "key": "{{ modName }} is \"sticky\". Disabling it at a later time will probably ",
+    "en": "{{ modName }} is \"sticky\". Disabling it at a later time will probably "
+  },
+  {
+    "ns": "symlink_activator",
+    "key": "Symbolic links are special files containing a reference to another file. ",
+    "en": "Symbolic links are special files containing a reference to another file. "
+  },
+  {
+    "ns": "symlink_activator_elevate",
+    "key": "Symbolic links are special files containing a reference to another file. ",
+    "en": "Symbolic links are special files containing a reference to another file. "
+  },
+  {
+    "ns": "symlink_activator_elevate",
+    "key": "You have to log out the user account or reboot windows for this change to be ",
+    "en": "You have to log out the user account or reboot windows for this change to be "
+  },
+  {
+    "ns": "updater",
+    "key": "You can choose to either receive automatic updates only after they went through some ",
+    "en": "You can choose to either receive automatic updates only after they went through some "
+  },
+  {
+    "ns": "updater",
+    "key": "Very old versions of Vortex will be locked out of network features eventually ",
+    "en": "Very old versions of Vortex will be locked out of network features eventually "
+  },
+  {
+    "ns": "documentation",
+    "key": "Playing this video will store cookies on your device",
+    "en": "Playing this video will store cookies on your device"
+  },
+  {
+    "ns": "documentation",
+    "key": "question",
+    "en": "question"
+  },
+  {
+    "ns": "feedback",
+    "key": "Please understand that this is only for feedback for the ",
+    "en": "Please understand that this is only for feedback for the "
+  },
+  {
+    "ns": "feedback",
+    "key": "Sorry, due to large amount of feedback we receive we can't accept feedback ",
+    "en": "Sorry, due to large amount of feedback we receive we can't accept feedback "
+  },
+  {
+    "ns": "feedback",
+    "key": "Describe in detail what you were doing and the feedback ",
+    "en": "Describe in detail what you were doing and the feedback "
+  },
+  {
+    "ns": "feedback",
+    "key": "Vortex does not impose any speed limitations on downloads, ",
+    "en": "Vortex does not impose any speed limitations on downloads, "
+  },
+  {
+    "ns": "feedback",
+    "key": "We can not forward your problems to the web department so please don't report ",
+    "en": "We can not forward your problems to the web department so please don't report "
+  },
+  {
+    "ns": "feedback",
+    "key": "Please make sure you've read the login instructions in Vortex, on the authorisation ",
+    "en": "Please make sure you've read the login instructions in Vortex, on the authorisation "
+  },
+  {
+    "ns": "feedback",
+    "key": "You are not logged in. Please include your username in your message to give us a ",
+    "en": "You are not logged in. Please include your username in your message to give us a "
+  },
+  {
+    "ns": "feedback",
+    "key": "If you send feedback anonymously we can not give you updates on your report ",
+    "en": "If you send feedback anonymously we can not give you updates on your report "
+  },
+  {
+    "ns": "feedback",
+    "key": "This will attach your Vortex setting to the report, not including ",
+    "en": "This will attach your Vortex setting to the report, not including "
+  },
+  {
+    "ns": "feedback",
+    "key": "This will attach your Vortex state to the report. This includes information about ",
+    "en": "This will attach your Vortex state to the report. This includes information about "
+  },
+  {
+    "ns": "fnis-integration",
+    "key": "You have configured Vortex to run FNIS automatically but it's not installed for this game. ",
+    "en": "You have configured Vortex to run FNIS automatically but it's not installed for this game. "
+  },
+  {
+    "ns": "fnis-integration",
+    "key": "You have configured Vortex to run FNIS automatically but the installed version of FNIS is ",
+    "en": "You have configured Vortex to run FNIS automatically but the installed version of FNIS is "
+  },
+  {
+    "ns": "fnis-integration",
+    "key": "Any time you deploy, Vortex will check if any mod containing animations ",
+    "en": "Any time you deploy, Vortex will check if any mod containing animations "
+  },
+  {
+    "ns": "fnis-integration",
+    "key": "md5",
+    "en": "md5"
+  },
+  {
+    "ns": "gamebryo-archive-check",
+    "key": "Some of the archives in your load order are incompatible with {{thisGame}}. ",
+    "en": "Some of the archives in your load order are incompatible with {{thisGame}}. "
+  },
+  {
+    "ns": "gamebryo-archive-check",
+    "key": "You can fix this problem yourself by removing any mods that are not intended to be used with {{thisGame}}. ",
+    "en": "You can fix this problem yourself by removing any mods that are not intended to be used with {{thisGame}}. "
+  },
+  {
+    "ns": "gamebryo-archive-invalidation",
+    "key": "This adds a mod to vortex that provides Archive Invalidation ",
+    "en": "This adds a mod to vortex that provides Archive Invalidation "
+  },
+  {
+    "ns": "gamebryo-plugin-indexlock",
+    "key": "Use this to directly control the mod index of a plugin.\n",
+    "en": "Use this to directly control the mod index of a plugin.\n"
+  },
+  {
+    "ns": "gamebryo-plugin-indexlock",
+    "key": "Actual index differs. If this is the case after sorting it may be ",
+    "en": "Actual index differs. If this is the case after sorting it may be "
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "These plugins could not be parsed by LOOT and were skipped so the rest of your ",
+    "en": "These plugins could not be parsed by LOOT and were skipped so the rest of your "
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "This might be a temporary network error. ",
+    "en": "This might be a temporary network error. "
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "tie breaker",
+    "en": "tie breaker"
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "Reset customized groups between \"{{first}}@{{firstGroup}}\" ",
+    "en": "Reset customized groups between \"{{first}}@{{firstGroup}}\" "
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "LOOT reported a cyclic interaction between rules.<br />",
+    "en": "LOOT reported a cyclic interaction between rules.<br />"
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "Your userlist refers to groups that don't exist: {{missing}}[br][/br]",
+    "en": "Your userlist refers to groups that don't exist: {{missing}}[br][/br]"
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "Your userlist contains multiple entries for \"{{name}}\". ",
+    "en": "Your userlist contains multiple entries for \"{{name}}\". "
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "Your userlist contains multiple identical \"{{plugin}} after {{reference}}\"",
+    "en": "Your userlist contains multiple identical \"{{plugin}} after {{reference}}\""
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "Plugins shouldn't exceed mod index {{maxIndex}} for a total of {{count}} ",
+    "en": "Plugins shouldn't exceed mod index {{maxIndex}} for a total of {{count}} "
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "Blueprint plugin used as master",
+    "en": "Blueprint plugin used as master"
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "The following enabled plugins declare a Blueprint plugin as a master. ",
+    "en": "The following enabled plugins declare a Blueprint plugin as a master. "
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "has Blueprint master",
+    "en": "has Blueprint master"
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "Some of the enabled plugins have dependencies or incompatibilities ",
+    "en": "Some of the enabled plugins have dependencies or incompatibilities "
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "Blueprint plugin - force-loaded by the game and pinned to the end ",
+    "en": "Blueprint plugin - force-loaded by the game and pinned to the end "
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "Dummy plugin",
+    "en": "Dummy plugin"
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "In addition you can have up to 256 medium plugins, and 4096 light plugins.",
+    "en": "In addition you can have up to 256 medium plugins, and 4096 light plugins."
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "Active",
+    "en": "Active"
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "  Full: {{ count }} /  {{ limit }}",
+    "en": "  Full: {{ count }} /  {{ limit }}"
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "Medium: {{ count }} /  256",
+    "en": "Medium: {{ count }} /  256"
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": " Light: {{ count }} / 4096",
+    "en": " Light: {{ count }} / 4096"
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "LOOT can automatically calculate a load order that satisfies all plugin dependencies and maximises each plugin\\’s ",
+    "en": "LOOT can automatically calculate a load order that satisfies all plugin dependencies and maximises each plugin\\’s "
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "This plugin can't be an esl since it contains form-ids ",
+    "en": "This plugin can't be an esl since it contains form-ids "
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "This is a regular plugin that could be turned into a light one ",
+    "en": "This is a regular plugin that could be turned into a light one "
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "If checked, plugins you add to the game directory outside Vortex ",
+    "en": "If checked, plugins you add to the game directory outside Vortex "
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "question",
+    "en": "question"
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "rename:",
+    "en": "rename:"
+  },
+  {
+    "ns": "gamebryo-plugin-management",
+    "key": "file not found",
+    "en": "file not found"
+  },
+  {
+    "ns": "gamebryo-savegame-management",
+    "key": "Unable to create save game directory: {{dest}}\\ (Please ensure you have ",
+    "en": "Unable to create save game directory: {{dest}}\\ (Please ensure you have "
+  },
+  {
+    "ns": "gamebryo-savegame-management",
+    "key": "For performance reasons only the {{count}} most recent ",
+    "en": "For performance reasons only the {{count}} most recent "
+  },
+  {
+    "ns": "game-7daystodie",
+    "key": "7 Days to Die loads mods in alphabetic order so Vortex prefixes ",
+    "en": "7 Days to Die loads mods in alphabetic order so Vortex prefixes "
+  },
+  {
+    "ns": "game-7daystodie",
+    "key": "The load order file is in a corrupt state or missing. ",
+    "en": "The load order file is in a corrupt state or missing. "
+  },
+  {
+    "ns": "game-7daystodie",
+    "key": "7DTD Settings",
+    "en": "7DTD Settings"
+  },
+  {
+    "ns": "game-7daystodie",
+    "key": "Current User Default Folder",
+    "en": "Current User Default Folder"
+  },
+  {
+    "ns": "game-7daystodie",
+    "key": "Set User Data Folder",
+    "en": "Set User Data Folder"
+  },
+  {
+    "ns": "game-7daystodie",
+    "key": "This will allow you to re-select the User Data Folder (UDF) for 7 Days to Die.",
+    "en": "This will allow you to re-select the User Data Folder (UDF) for 7 Days to Die."
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "Baldur's Gate 3's modding pattern in most (if not all) cases will require a 3rd ",
+    "en": "Baldur's Gate 3's modding pattern in most (if not all) cases will require a 3rd "
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "To successfully switch between different game versions/patches please follow these steps:",
+    "en": "To successfully switch between different game versions/patches please follow these steps:"
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "Purge your mods",
+    "en": "Purge your mods"
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "Run the game so that the modsettings.lsx file gets reset to the default values",
+    "en": "Run the game so that the modsettings.lsx file gets reset to the default values"
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "Close the game",
+    "en": "Close the game"
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "Deploy your mods",
+    "en": "Deploy your mods"
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "Run the game again - your load order will be maintained",
+    "en": "Run the game again - your load order will be maintained"
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "Import from Baldur's Gate 3 Mod Manager",
+    "en": "Import from Baldur's Gate 3 Mod Manager"
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "Vortex can sort your load order based on a BG3MM .json load order file. Any mods that are not installed through Vortex will be ignored.",
+    "en": "Vortex can sort your load order based on a BG3MM .json load order file. Any mods that are not installed through Vortex will be ignored."
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "Please note that any mods that are not present in the BG3MM load order file will be placed at the bottom of the load order.",
+    "en": "Please note that any mods that are not present in the BG3MM load order file will be placed at the bottom of the load order."
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "To take full advantage of Vortex's Baldur\\s Gate 3 modding capabilities such as managing the ",
+    "en": "To take full advantage of Vortex's Baldur\\s Gate 3 modding capabilities such as managing the "
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "The load order file is in a corrupt state. You can try to fix it yourself ",
+    "en": "The load order file is in a corrupt state. You can try to fix it yourself "
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "Please choose a BG3MM .json load order file to import from",
+    "en": "Please choose a BG3MM .json load order file to import from"
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "As of Baldur's Gate 3 patch 7, the \"ModFixer\" mod is no longer required. Please feel free to disable it.{{bl}}",
+    "en": "As of Baldur's Gate 3 patch 7, the \"ModFixer\" mod is no longer required. Please feel free to disable it.{{bl}}"
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "Baldur's Gate 3",
+    "en": "Baldur's Gate 3"
+  },
+  {
+    "ns": "game-baldursgate3",
+    "key": "To take full advantage of Vortex's Baldurs Gate 3 modding capabilities such as managing the order in which mods are loaded into the game; Vortex requires a 3rd party tool called LSLib.",
+    "en": "To take full advantage of Vortex's Baldurs Gate 3 modding capabilities such as managing the order in which mods are loaded into the game; Vortex requires a 3rd party tool called LSLib."
+  },
+  {
+    "ns": "game-bladeandsorcery",
+    "key": "You can adjust the load order for Blade and Sorcery by dragging and dropping ",
+    "en": "You can adjust the load order for Blade and Sorcery by dragging and dropping "
+  },
+  {
+    "ns": "game-bladeandsorcery",
+    "key": "The mods displayed in this page are valid mods, confirmed to be deployed inside the ",
+    "en": "The mods displayed in this page are valid mods, confirmed to be deployed inside the "
+  },
+  {
+    "ns": "game-bladeandsorcery",
+    "key": "If you cannot see your manually added mod in this load order - click refresh and Vortex ",
+    "en": "If you cannot see your manually added mod in this load order - click refresh and Vortex "
+  },
+  {
+    "ns": "game-bladeandsorcery",
+    "key": "The load order file will only be picked up by the game in version 8.4 Beta 5 and above",
+    "en": "The load order file will only be picked up by the game in version 8.4 Beta 5 and above"
+  },
+  {
+    "ns": "game-bladeandsorcery",
+    "key": "The mod you're attempting to install is not compatible with ",
+    "en": "The mod you're attempting to install is not compatible with "
+  },
+  {
+    "ns": "game-bladeandsorcery",
+    "key": "As part of implementing the Load Order system for ",
+    "en": "As part of implementing the Load Order system for "
+  },
+  {
+    "ns": "game-bloodstainedritualofthenight",
+    "key": "Vortex has discovered the following unmanaged/external files in the ",
+    "en": "Vortex has discovered the following unmanaged/external files in the "
+  },
+  {
+    "ns": "game-bloodstainedritualofthenight",
+    "key": "The load order file is in a corrupt state. You can try to fix it yourself ",
+    "en": "The load order file is in a corrupt state. You can try to fix it yourself "
+  },
+  {
+    "ns": "game-codevein",
+    "key": "Vortex has discovered the following unmanaged/external files in the ",
+    "en": "Vortex has discovered the following unmanaged/external files in the "
+  },
+  {
+    "ns": "game-conanexiles",
+    "key": "Please refer to mod descriptions from mod authors to determine the right order. ",
+    "en": "Please refer to mod descriptions from mod authors to determine the right order. "
+  },
+  {
+    "ns": "game-dragons-dogma",
+    "key": "Please note: if you are happy with your current mod setup, and have not noticed any issues, ",
+    "en": "Please note: if you are happy with your current mod setup, and have not noticed any issues, "
+  },
+  {
+    "ns": "game-dragons-dogma",
+    "key": "Please note: Vortex had attempted to automatically migrate your mods to the new ",
+    "en": "Please note: Vortex had attempted to automatically migrate your mods to the new "
+  },
+  {
+    "ns": "game-dragons-dogma",
+    "key": "It was raised to our attention that certain DDDA mods are not being ",
+    "en": "It was raised to our attention that certain DDDA mods are not being "
+  },
+  {
+    "ns": "game-kingdomcome-deliverance",
+    "key": "Below is a preview of the load order for the mods that ",
+    "en": "Below is a preview of the load order for the mods that "
+  },
+  {
+    "ns": "game-kingdomcome-deliverance",
+    "key": "Drag and drop the mods on the left to reorder them. Kingdom Come: Deliverance uses a mod_order.txt file ",
+    "en": "Drag and drop the mods on the left to reorder them. Kingdom Come: Deliverance uses a mod_order.txt file "
+  },
+  {
+    "ns": "game-kingdomcome-deliverance",
+    "key": "Note: Vortex will detect manually added mods as long as these have been added to the mod_order.txt file. ",
+    "en": "Note: Vortex will detect manually added mods as long as these have been added to the mod_order.txt file. "
+  },
+  {
+    "ns": "game-kingdomcome-deliverance",
+    "key": "Kingdom Come: Deliverance Data",
+    "en": "Kingdom Come: Deliverance Data"
+  },
+  {
+    "ns": "game-microsoftflightsimulator",
+    "key": "If you have multiple mods replacing the same content (e.g. engine ",
+    "en": "If you have multiple mods replacing the same content (e.g. engine "
+  },
+  {
+    "ns": "game-monster-hunter-world",
+    "key": "You're attempting to install what appears to be a ReShade mod, but ",
+    "en": "You're attempting to install what appears to be a ReShade mod, but "
+  },
+  {
+    "ns": "game-morrowind",
+    "key": "This is a snapshot of the load order information that ",
+    "en": "This is a snapshot of the load order information that "
+  },
+  {
+    "ns": "game-morrowind",
+    "key": " If you believe a load order entry is missing, please ensure the ",
+    "en": " If you believe a load order entry is missing, please ensure the "
+  },
+  {
+    "ns": "game-spyroreignitedtrilogy",
+    "key": "Vortex has discovered the following unmanaged/external files in the ",
+    "en": "Vortex has discovered the following unmanaged/external files in the "
+  },
+  {
+    "ns": "game-spyroreignitedtrilogy",
+    "key": "The load order file is in a corrupt state. You can try to fix it yourself ",
+    "en": "The load order file is in a corrupt state. You can try to fix it yourself "
+  },
+  {
+    "ns": "game-stardewvalley",
+    "key": "Some Stardew Valley mods require a newer version of SMAPI to function correctly, ",
+    "en": "Some Stardew Valley mods require a newer version of SMAPI to function correctly, "
+  },
+  {
+    "ns": "game-stardewvalley",
+    "key": "SMAPI suggests updating this mod to {{update}}. ",
+    "en": "SMAPI suggests updating this mod to {{update}}. "
+  },
+  {
+    "ns": "game-stardewvalley",
+    "key": "Stardew Valley",
+    "en": "Stardew Valley"
+  },
+  {
+    "ns": "game-stardewvalley",
+    "key": "If checked, when you install a mod for Stardew Valley you may get ",
+    "en": "If checked, when you install a mod for Stardew Valley you may get "
+  },
+  {
+    "ns": "game-stardewvalley",
+    "key": "Manage SDV mod configuration files",
+    "en": "Manage SDV mod configuration files"
+  },
+  {
+    "ns": "game-stardewvalley",
+    "key": "Vortex by default is configured to attempt to pull-in newly created files (mod configuration json files for example) ",
+    "en": "Vortex by default is configured to attempt to pull-in newly created files (mod configuration json files for example) "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": "Changes priority assignment restrictions - prefix based is ",
+    "en": "Changes priority assignment restrictions - prefix based is "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": "This action will set priorities using the deployment rules ",
+    "en": "This action will set priorities using the deployment rules "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": "Vortex encountered a permissions related error while attempting ",
+    "en": "Vortex encountered a permissions related error while attempting "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": "Due to a bug, the mod limit patch was not applied correctly. ",
+    "en": "Due to a bug, the mod limit patch was not applied correctly. "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": "Witcher 3 is restricted to 192 file handles which is quickly reached when ",
+    "en": "Witcher 3 is restricted to 192 file handles which is quickly reached when "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": "Many Witcher 3 mods add or edit game scripts. When several mods ",
+    "en": "Many Witcher 3 mods add or edit game scripts. When several mods "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": "Vortex is unable to resolve the Script Merger's location. The tool needs to be downloaded and configured manually. ",
+    "en": "Vortex is unable to resolve the Script Merger's location. The tool needs to be downloaded and configured manually. "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": "The Witcher 3 game extension executes a series of file merges for UI/menu mods ",
+    "en": "The Witcher 3 game extension executes a series of file merges for UI/menu mods "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": "Additionally - please remember that any script merges (if applicable) done ",
+    "en": "Additionally - please remember that any script merges (if applicable) done "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": "This is a snapshot of the load order information that ",
+    "en": "This is a snapshot of the load order information that "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": " If you believe a load order entry is missing, please ensure the ",
+    "en": " If you believe a load order entry is missing, please ensure the "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": "You can adjust the load order for The Witcher 3 by dragging and dropping ",
+    "en": "You can adjust the load order for The Witcher 3 by dragging and dropping "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": "When managing menu mods, mod settings changed inside the game will be detected by Vortex as external changes - that is expected, ",
+    "en": "When managing menu mods, mod settings changed inside the game will be detected by Vortex as external changes - that is expected, "
+  },
+  {
+    "ns": "game-witcher3",
+    "key": "View source Mod",
+    "en": "View source Mod"
+  },
+  {
+    "ns": "issue-tracker",
+    "key": "You are not logged in. Please include your username in your message to give us a ",
+    "en": "You are not logged in. Please include your username in your message to give us a "
+  },
+  {
+    "ns": "issue-tracker",
+    "key": "If you send feedback anonymously we can not give you updates on your report ",
+    "en": "If you send feedback anonymously we can not give you updates on your report "
+  },
+  {
+    "ns": "issue-tracker",
+    "key": "{{completion}}%{{planned}}",
+    "en": "{{completion}}%{{planned}}"
+  },
+  {
+    "ns": "mo-import",
+    "key": "This tool is an easy way of transferring your current ",
+    "en": "This tool is an easy way of transferring your current "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "There are unresolved file conflicts. This just means that two or more mods contain the ",
+    "en": "There are unresolved file conflicts. This just means that two or more mods contain the "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "[td]{{modName}}[/td]",
+    "en": "[td]{{modName}}[/td]"
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "The mod you {{enabled}} depends on other mods, do you want to {{enable}} those ",
+    "en": "The mod you {{enabled}} depends on other mods, do you want to {{enable}} those "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "This will only disable mods not required by something else but it may disable ",
+    "en": "This will only disable mods not required by something else but it may disable "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "You have unresolved file conflicts {{more}}. ",
+    "en": "You have unresolved file conflicts {{more}}. "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "Remove file overrides",
+    "en": "Remove file overrides"
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "You have {{total}} mod(s) with file overrides that are involved in a modtype conflict:\n",
+    "en": "You have {{total}} mod(s) with file overrides that are involved in a modtype conflict:\n"
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "You are about to disable cross-modtype conflicts - this is not recommended as conflicts across mod types ",
+    "en": "You are about to disable cross-modtype conflicts - this is not recommended as conflicts across mod types "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "This change will only be applied once you choose to \"Save\" the change in the main ",
+    "en": "This change will only be applied once you choose to \"Save\" the change in the main "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "Vortex can set some of the rules automatically based on the last modified date. ",
+    "en": "Vortex can set some of the rules automatically based on the last modified date. "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "You are about to apply a group rule (before/after all), to the following ",
+    "en": "You are about to apply a group rule (before/after all), to the following "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "Arrows can be read as \"then\" (A ->- B reads \"A, then B\"), meaning the mod the ",
+    "en": "Arrows can be read as \"then\" (A ->- B reads \"A, then B\"), meaning the mod the "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "If there are too many connections you can highlight a single cycle ",
+    "en": "If there are too many connections you can highlight a single cycle "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "You can resolve a cycle by either removing or flipping one rule, ",
+    "en": "You can resolve a cycle by either removing or flipping one rule, "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "MD5",
+    "en": "MD5"
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "The mod marked as \"Default\" is the one that will provide the ",
+    "en": "The mod marked as \"Default\" is the one that will provide the "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "Please try to minimize the number of overrides you set up here. ",
+    "en": "Please try to minimize the number of overrides you set up here. "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "This lists only the files in the selected mod that aren't exclusive ",
+    "en": "This lists only the files in the selected mod that aren't exclusive "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "{{ pos }} of {{ total }}",
+    "en": "{{ pos }} of {{ total }}"
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "Disabling this feature is not recommended. If you have ModType conflicts present in your mods setup, disabling this ",
+    "en": "Disabling this feature is not recommended. If you have ModType conflicts present in your mods setup, disabling this "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "You have disabled Cross-ModType conflict detection on your system. Any conflicts across modtypes will ",
+    "en": "You have disabled Cross-ModType conflict detection on your system. Any conflicts across modtypes will "
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "You are about to disable cross-modtype conflicts - this is not recommended as conflicts across mod types do not adhere to regular deployment rules and are guaranteed to break your modding environment when present.[br][/br][br][/br]If you proceed, and you have such conflicts, the external changes dialog will be raised after each deployment/purge event until you manually remove the conflicting files or disable the mods that are causing the conflict.[br][/br][br][/br]By default, Vortex will now clear any file overrides that were created to resolve cross-modtype conflicts. Please be aware that ALL file overrides will be removed from the mods mentioned below. Uncheck the box if you would rather keep these file overrides and manage them manually.",
+    "en": "You are about to disable cross-modtype conflicts - this is not recommended as conflicts across mod types do not adhere to regular deployment rules and are guaranteed to break your modding environment when present.[br][/br][br][/br]If you proceed, and you have such conflicts, the external changes dialog will be raised after each deployment/purge event until you manually remove the conflicting files or disable the mods that are causing the conflict.[br][/br][br][/br]By default, Vortex will now clear any file overrides that were created to resolve cross-modtype conflicts. Please be aware that ALL file overrides will be removed from the mods mentioned below. Uncheck the box if you would rather keep these file overrides and manage them manually."
+  },
+  {
+    "ns": "mod-dependency-manager",
+    "key": "You have disabled Cross-ModType conflict detection on your system. Any conflicts across modtypes will have to be resolved manually outside of Vortex.",
+    "en": "You have disabled Cross-ModType conflict detection on your system. Any conflicts across modtypes will have to be resolved manually outside of Vortex."
+  },
+  {
+    "ns": "modtype-bepinex",
+    "key": "The {{game}} game extension requires a widely used 3rd party assembly ",
+    "en": "The {{game}} game extension requires a widely used 3rd party assembly "
+  },
+  {
+    "ns": "modtype-bepinex",
+    "key": "The \"{{game}}\" game extension requires a widely used 3rd party assembly ",
+    "en": "The \"{{game}}\" game extension requires a widely used 3rd party assembly "
+  },
+  {
+    "ns": "modtype-umm",
+    "key": "The {{game}} game extension requires a 3rd party mod ",
+    "en": "The {{game}} game extension requires a 3rd party mod "
+  },
+  {
+    "ns": "modtype-umm",
+    "key": "Once you allow Vortex to browse to GitHub - ",
+    "en": "Once you allow Vortex to browse to GitHub - "
+  },
+  {
+    "ns": "nmm-import-tool",
+    "key": "Vortex is unable to read/open one or more of ",
+    "en": "Vortex is unable to read/open one or more of "
+  },
+  {
+    "ns": "nmm-import-tool",
+    "key": "Vortex cannot validate NMM's mod/archive files - this usually occurs when ",
+    "en": "Vortex cannot validate NMM's mod/archive files - this usually occurs when "
+  },
+  {
+    "ns": "nmm-import-tool",
+    "key": "This is an import tool that allows you to bring your mod archives over from an ",
+    "en": "This is an import tool that allows you to bring your mod archives over from an "
+  },
+  {
+    "ns": "nmm-import-tool",
+    "key": "No NMM install found with mods for this game. ",
+    "en": "No NMM install found with mods for this game. "
+  },
+  {
+    "ns": "nmm-import-tool",
+    "key": "If you have multiple instances of NMM installed you can select which one ",
+    "en": "If you have multiple instances of NMM installed you can select which one "
+  },
+  {
+    "ns": "nmm-import-tool",
+    "key": "NMM and Vortex would interfere with each other if they both ",
+    "en": "NMM and Vortex would interfere with each other if they both "
+  },
+  {
+    "ns": "nmm-import-tool",
+    "key": "NMM needs to be closed during the import process and generally ",
+    "en": "NMM needs to be closed during the import process and generally "
+  },
+  {
+    "ns": "nmm-import-tool",
+    "key": "\"{{permFile}}\" is access protected. Please ensure your account has ",
+    "en": "\"{{permFile}}\" is access protected. Please ensure your account has "
+  },
+  {
+    "ns": "script-extender-error-check",
+    "key": "<manually installed>",
+    "en": "<manually installed>"
+  },
+  {
+    "ns": "script-extender-error-check",
+    "key": "[url={{logPathURI}}]{{logPath}}[/url] {{pathSep}} [url={{logURI}}]{{logName}}[/url]<br/>",
+    "en": "[url={{logPathURI}}]{{logPath}}[/url] {{pathSep}} [url={{logURI}}]{{logName}}[/url]<br/>"
+  },
+  {
+    "ns": "script-extender-error-check",
+    "key": "Last time you ran the game or Creation kit, one or more script extender ",
+    "en": "Last time you ran the game or Creation kit, one or more script extender "
+  },
+  {
+    "ns": "script-extender-installer",
+    "key": "Your primary tool/starter for this game is a Script Extender, but it appears to be misconfigured. ",
+    "en": "Your primary tool/starter for this game is a Script Extender, but it appears to be misconfigured. "
+  },
+  {
+    "ns": "script-extender-installer",
+    "key": "Vortex could not automatically determine the correct version of {{name}} for your game. \n\n",
+    "en": "Vortex could not automatically determine the correct version of {{name}} for your game. \n\n"
+  },
+  {
+    "ns": "test-gameversion",
+    "key": "Some mods are incompatible with the current game version, ",
+    "en": "Some mods are incompatible with the current game version, "
+  },
+  {
+    "ns": "test-setup",
+    "key": "The uninstall key for Vortex is missing or corrupted. This may lead to ",
+    "en": "The uninstall key for Vortex is missing or corrupted. This may lead to "
+  },
+  {
+    "ns": "theme-switcher",
+    "key": "Appearance",
+    "en": "Appearance"
+  },
+  {
+    "ns": "theme-switcher",
+    "key": "Use legacy Vortex UI",
+    "en": "Use legacy Vortex UI"
+  },
+  {
+    "ns": "theme-switcher",
+    "key": "Some community themes were designed for the new UI and may not display correctly in the legacy one.",
+    "en": "Some community themes were designed for the new UI and may not display correctly in the legacy one."
+  },
+  {
+    "ns": "theme-switcher",
+    "key": "Some community themes were designed for the old UI and may not display correctly in the new one.",
+    "en": "Some community themes were designed for the old UI and may not display correctly in the new one."
+  },
+  {
+    "ns": "theme-switcher",
+    "key": "Makes all system fonts installed on the system available in the Font dropdowns. ",
+    "en": "Makes all system fonts installed on the system available in the Font dropdowns. "
+  },
+  {
+    "ns": "theme-switcher",
+    "key": "The quick brown fox jumps over the lazy dog",
+    "en": "The quick brown fox jumps over the lazy dog"
+  },
+  {
+    "ns": "theme-switcher",
+    "key": "Every dashlet (the widgets on the Dashboards) has a height that is a ",
+    "en": "Every dashlet (the widgets on the Dashboards) has a height that is a "
+  },
+  {
+    "ns": "theme-switcher",
+    "key": "When this is enabled, grays are essentially inverted, so a light gray becomes ",
+    "en": "When this is enabled, grays are essentially inverted, so a light gray becomes "
+  },
+  {
+    "ns": "mod-report",
+    "key": "md5",
+    "en": "md5"
+  }
+]

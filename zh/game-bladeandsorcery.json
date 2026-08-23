@@ -1,0 +1,15 @@
+{
+  "As part of implementing the Load Order system for ": "作为实现加载顺序系统的一部分，针对",
+  "For the load order to be reflected correctly within the game's mods directory, the mods must be re-deployed once you've finished changing the load order.": "为了使加载顺序正确反映在游戏的模组目录中，一旦更改了加载顺序，就必须重新部署模组。",
+  "If you cannot see your manually added mod in this load order - click refresh and Vortex ": "如果在此加载顺序中看不到手动添加的模组，请点击刷新，Vortex",
+  "If you cannot see your manually added mod in this load order, you may need to manually set the wanted prefix by renaming the mod's folder in the mods folder directly. as an example, lets say you have installed \"FakeMod\" and want to add it below your AAA-UnlimitedPotions mod, simply rename \"FakeMod\" to \"AAB-FakeMod\" and click the refresh button.": "如果看不到按此加载顺序手动添加的模组，则可能需要通过直接在模组文件夹中重命名模组的文件夹来手动设置所需的前缀。例如，假设您已经安装了“FakeMod”，并想将其添加到 AAA-UnlimitedPotions 模组下，只需将“FakeMod”重命名为“AAB-FakeMod”，然后单击刷新按钮即可。",
+  "Managing your load order": "管理加载顺序",
+  "Manually added mods are restricted to the prefix you set and Vortex has functionality to ensure this is respected, e.g. AAB-MyMod, Vortex will pick up on that prefix and sort it correctly in the load order (e.g. after AAA-SomeMod but before AAC-AnotherMod).": "手动添加的模组仅限于您设置的前缀，并且 Vortex 具有确保遵守此规定的功能，例如 AAB-MyMod，Vortex 会选择该前缀并按加载顺序对其正确排序（例如，在 AAA-SomeMod 之后但在 AAC-AnotherMod 之前）。",
+  "Please note:": "请注意：",
+  "The load order file will only be picked up by the game in version 8.4 Beta 5 and above": "游戏仅在 8.4 Beta 5 及以上版本才会读取加载顺序文件",
+  "The mod you're attempting to install is not compatible with ": "你正在安装的模组不兼容",
+  "The mods displayed in this page are valid mods, confirmed to be deployed inside the ": "此页面列出的是有效模组，已确认部署到",
+  "You can adjust the load order for Blade and Sorcery by dragging and dropping ": "你可以通过拖放调整《Blade and Sorcery》的加载顺序",
+  "You can adjust the load order for Blade and Sorcery by dragging and dropping mods up or down on this page. As the game loads its mods alphabetically - the AAA-ZZZ prefix will be added to the mod's folder name on every deployment event to guarantee that the game loads the mods in the order set inside Vortex. The higher prefix will win any conflicts (ZZZ > AAA)": "你可以调整 Blade and Sorcery 的加载顺序，通过在这个页面上上下拖动模组。当游戏按字母顺序加载模组时，AAA-ZZZ 前缀将添加到每个部署事件的模组文件夹名中，以保证游戏按照 Vortex 中设置的顺序加载模组。较高的前缀将获得各种冲突（ZZZ>AAA）",
+  "Your game copy is missing its Game.json file, please try running the game at least once, or re-install the game.": "您的游戏副本缺少 Game.json 文件，请至少运行一次游戏，或重新安装游戏。"
+}

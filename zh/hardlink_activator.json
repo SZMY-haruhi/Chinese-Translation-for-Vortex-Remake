@@ -1,0 +1,10 @@
+{
+  "Can't write to output directory.": "无法写入输出目录。",
+  "File Systems store files in two parts: \n": "文件系统分两部分存储文件：\n",
+  "Filesystem doesn't support hard links.": "文件系统不支持硬链接。",
+  "Game not discovered.": "未找到游戏。",
+  "Game not fully initialized yet, this should disappear soon.": "游戏尚未完全初始化，这应该很快就会消失。",
+  "Please go to Settings->Mods and set the mod staging folder to be on ": "请前往 设置 → 模组，将模组暂存文件夹设到",
+  "To resolve this problem, the current user account needs to be given ": "要解决此问题，需要授予当前用户账户",
+  "Works only if mods are installed on the same drive as the game.": "仅当模组安装在与游戏相同的分区上时才有效。"
+}

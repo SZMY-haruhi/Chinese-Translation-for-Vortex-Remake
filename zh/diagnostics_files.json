@@ -1,0 +1,12 @@
+{
+  "{{ count }} error": "{{ count }} 个错误",
+  "An error occurred loading Vortex logs.": "加载 Vortex 日志时出错。",
+  "Close": "关闭",
+  "Copy to Clipboard": "复制到剪贴板",
+  "Crashed": "崩溃",
+  "From": "从",
+  "Open Log Folder": "打开日志文件夹",
+  "Report": "报告",
+  "to": "到",
+  "View Logs": "查看日志"
+}

@@ -1,0 +1,9 @@
+{
+  "Filesystem doesn't support symbolic links.": "文件系统不支持符号链接。",
+  "Filesystem doesn't support symbolic links. Error: \"{{error}}\"": "文件系统不支持符号链接。错误：“{{error}}”",
+  "Game doesn't support symlinks": "游戏不支持符号链接",
+  "Game not discovered.": "未找到游戏。",
+  "Incompatible with \"{{name}}\".": "与“{{name}}”不兼容。",
+  "Requires admin rights on windows.": "需要 Windows 上的管理员权限。",
+  "Symbolic links are special files containing a reference to another file. ": "符号链接是包含另一文件引用的特殊文件。"
+}

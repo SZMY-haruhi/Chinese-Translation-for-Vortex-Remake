@@ -1,0 +1,8 @@
+{
+  "Cancel": "取消",
+  "Continue Installation": "继续安装",
+  "Enable Sandbox": "启用沙箱",
+  "Installation Timeout": "安装超时",
+  "Installer Sandbox": "安装程序沙箱",
+  "The installation of mod \"{{ modName }}\" is taking longer than expected.[br][/br][br][/br]": "模组“{{ modName }}”的安装耗时超出预期。[br][/br][br][/br]"
+}

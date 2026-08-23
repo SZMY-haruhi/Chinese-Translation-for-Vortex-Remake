@@ -1,0 +1,13 @@
+{
+  " If you believe a load order entry is missing, please ensure the ": " 如果你认为缺少加载顺序条目，请确认",
+  " Note that some games will require the mods to be enabled or deployed ": " 请注意，部分游戏需要先启用或部署模组",
+  "Changing your load order": "更改加载顺序",
+  "Go to Load Order Page": "转到加载顺序页面",
+  "Load Order": "加载顺序",
+  "Load Order page.": "加载顺序页面。",
+  "Not managed by Vortex": "不是由 Vortex 管理的",
+  "Open Load Order Page": "打开加载顺序页面",
+  "This is a snapshot of the load order information that ": "这是加载顺序信息的快照，",
+  "You can make changes to this data from the ": "您可以更改此数据从",
+  "You have no load order entries (for the current mods in the collection)": "您没有加载顺序记录（对于整合包中的当前模组）"
+}

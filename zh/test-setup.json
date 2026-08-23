@@ -1,0 +1,8 @@
+{
+  "\"{{value}}\" vs \"{{expected}}\"": "“{{value}}”vs“{{expected}}”",
+  "No Vortex uninstall key": "无 Vortex 卸载密钥",
+  "The uninstall key for Vortex is missing or corrupted. This may lead to ": "Vortex 的卸载注册项缺失或已损坏。这可能导致",
+  "The uninstall key for Vortex is missing or corrupted. This may lead to problems the next time Vortex gets updated. Please reinstall Vortex.": "Vortex 的卸载密钥丢失或损坏。这可能会在 Vortex 下次更新的时候导致问题。请重新安装 Vortex。",
+  "Vortex uninstall key is incomplete": "Vortex 卸载密钥不完整",
+  "Vortex uninstall path doesn't match current executable": "Vortex 卸载路径与当前可执行文件不匹配"
+}

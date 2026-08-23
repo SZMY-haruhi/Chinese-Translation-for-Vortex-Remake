@@ -1,0 +1,3 @@
+{
+  "{{ modName }} is \"sticky\". Disabling it at a later time will probably ": "{{ modName }} 被设为“置顶”。之后再禁用它可能会"
+}

@@ -1,0 +1,35 @@
+# Dependencies and local caches
+node_modules/
+.npm/
+.pnpm-store/
+
+# Upstream sources and translation memory (clone locally, do not commit)
+vendor/
+
+# Build output
+dist/
+*.zip
+*.7z
+*.rar
+
+# Generated / temporary catalogs
+catalogs/*.tmp
+catalogs/en-catalog.json
+
+# Logs and OS junk
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.*
